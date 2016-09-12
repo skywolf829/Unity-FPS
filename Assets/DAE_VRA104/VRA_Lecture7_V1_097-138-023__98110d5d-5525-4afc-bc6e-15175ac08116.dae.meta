@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: e1f5053cca5bba746ab716b6b6abed4d
+timeCreated: 1466883104
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Slideshow
+    100002: Slideshow 1
+    100004: Slideshow 10
+    100006: Slideshow 11
+    100008: Slideshow 12
+    100010: Slideshow 2
+    100012: Slideshow 3
+    100014: Slideshow 4
+    100016: Slideshow 5
+    100018: Slideshow 6
+    100020: Slideshow 7
+    100022: Slideshow 8
+    100024: Slideshow 9
+    100026: VRA_Lecture7_V1
+    100028: //RootNode
+    400000: Slideshow
+    400002: Slideshow 1
+    400004: Slideshow 10
+    400006: Slideshow 11
+    400008: Slideshow 12
+    400010: Slideshow 2
+    400012: Slideshow 3
+    400014: Slideshow 4
+    400016: Slideshow 5
+    400018: Slideshow 6
+    400020: Slideshow 7
+    400022: Slideshow 8
+    400024: Slideshow 9
+    400026: VRA_Lecture7_V1
+    400028: //RootNode
+    2300000: Slideshow
+    2300002: Slideshow 1
+    2300004: Slideshow 10
+    2300006: Slideshow 11
+    2300008: Slideshow 12
+    2300010: Slideshow 2
+    2300012: Slideshow 3
+    2300014: Slideshow 4
+    2300016: Slideshow 5
+    2300018: Slideshow 6
+    2300020: Slideshow 7
+    2300022: Slideshow 8
+    2300024: Slideshow 9
+    2300026: VRA_Lecture7_V1
+    3300000: Slideshow
+    3300002: Slideshow 1
+    3300004: Slideshow 10
+    3300006: Slideshow 11
+    3300008: Slideshow 12
+    3300010: Slideshow 2
+    3300012: Slideshow 3
+    3300014: Slideshow 4
+    3300016: Slideshow 5
+    3300018: Slideshow 6
+    3300020: Slideshow 7
+    3300022: Slideshow 8
+    3300024: Slideshow 9
+    3300026: VRA_Lecture7_V1
+    4300000: VRA_Lecture7_V1
+    4300002: Slideshow
+    4300004: Slideshow
+    4300006: Slideshow
+    4300008: Slideshow
+    4300010: Slideshow
+    4300012: Slideshow
+    4300014: Slideshow
+    4300016: Slideshow
+    4300018: Slideshow
+    4300020: Slideshow
+    4300022: Slideshow
+    4300024: Slideshow
+    4300026: Slideshow
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

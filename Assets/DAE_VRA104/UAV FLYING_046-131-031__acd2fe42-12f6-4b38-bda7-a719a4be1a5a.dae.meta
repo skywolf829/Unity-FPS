@@ -1,0 +1,319 @@
+fileFormatVersion: 2
+guid: 2265be78d0d35cc42b515feb60eca15d
+timeCreated: 1466883083
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ID6
+    100002: ID6 1
+    100004: ID6 10
+    100006: ID6 11
+    100008: ID6 12
+    100010: ID6 13
+    100012: ID6 14
+    100014: ID6 15
+    100016: ID6 16
+    100018: ID6 17
+    100020: ID6 18
+    100022: ID6 19
+    100024: ID6 2
+    100026: ID6 20
+    100028: ID6 21
+    100030: ID6 22
+    100032: ID6 23
+    100034: ID6 24
+    100036: ID6 25
+    100038: ID6 26
+    100040: ID6 27
+    100042: ID6 28
+    100044: ID6 29
+    100046: ID6 3
+    100048: ID6 30
+    100050: ID6 31
+    100052: ID6 32
+    100054: ID6 33
+    100056: ID6 34
+    100058: ID6 35
+    100060: ID6 36
+    100062: ID6 37
+    100064: ID6 38
+    100066: ID6 39
+    100068: ID6 4
+    100070: ID6 40
+    100072: ID6 41
+    100074: ID6 42
+    100076: ID6 43
+    100078: ID6 44
+    100080: ID6 45
+    100082: ID6 46
+    100084: ID6 5
+    100086: ID6 6
+    100088: ID6 7
+    100090: ID6 8
+    100092: ID6 9
+    100094: UAV
+    100096: UAV FLYING
+    100098: //RootNode
+    400000: ID6
+    400002: ID6 1
+    400004: ID6 10
+    400006: ID6 11
+    400008: ID6 12
+    400010: ID6 13
+    400012: ID6 14
+    400014: ID6 15
+    400016: ID6 16
+    400018: ID6 17
+    400020: ID6 18
+    400022: ID6 19
+    400024: ID6 2
+    400026: ID6 20
+    400028: ID6 21
+    400030: ID6 22
+    400032: ID6 23
+    400034: ID6 24
+    400036: ID6 25
+    400038: ID6 26
+    400040: ID6 27
+    400042: ID6 28
+    400044: ID6 29
+    400046: ID6 3
+    400048: ID6 30
+    400050: ID6 31
+    400052: ID6 32
+    400054: ID6 33
+    400056: ID6 34
+    400058: ID6 35
+    400060: ID6 36
+    400062: ID6 37
+    400064: ID6 38
+    400066: ID6 39
+    400068: ID6 4
+    400070: ID6 40
+    400072: ID6 41
+    400074: ID6 42
+    400076: ID6 43
+    400078: ID6 44
+    400080: ID6 45
+    400082: ID6 46
+    400084: ID6 5
+    400086: ID6 6
+    400088: ID6 7
+    400090: ID6 8
+    400092: ID6 9
+    400094: UAV
+    400096: UAV FLYING
+    400098: //RootNode
+    2300000: ID6
+    2300002: ID6 1
+    2300004: ID6 10
+    2300006: ID6 11
+    2300008: ID6 12
+    2300010: ID6 13
+    2300012: ID6 14
+    2300014: ID6 15
+    2300016: ID6 16
+    2300018: ID6 17
+    2300020: ID6 18
+    2300022: ID6 19
+    2300024: ID6 2
+    2300026: ID6 20
+    2300028: ID6 21
+    2300030: ID6 22
+    2300032: ID6 23
+    2300034: ID6 24
+    2300036: ID6 25
+    2300038: ID6 26
+    2300040: ID6 27
+    2300042: ID6 28
+    2300044: ID6 29
+    2300046: ID6 3
+    2300048: ID6 30
+    2300050: ID6 31
+    2300052: ID6 32
+    2300054: ID6 33
+    2300056: ID6 34
+    2300058: ID6 35
+    2300060: ID6 36
+    2300062: ID6 37
+    2300064: ID6 38
+    2300066: ID6 39
+    2300068: ID6 4
+    2300070: ID6 40
+    2300072: ID6 41
+    2300074: ID6 42
+    2300076: ID6 43
+    2300078: ID6 44
+    2300080: ID6 45
+    2300082: ID6 46
+    2300084: ID6 5
+    2300086: ID6 6
+    2300088: ID6 7
+    2300090: ID6 8
+    2300092: ID6 9
+    2300094: UAV
+    2300096: UAV FLYING
+    3300000: ID6
+    3300002: ID6 1
+    3300004: ID6 10
+    3300006: ID6 11
+    3300008: ID6 12
+    3300010: ID6 13
+    3300012: ID6 14
+    3300014: ID6 15
+    3300016: ID6 16
+    3300018: ID6 17
+    3300020: ID6 18
+    3300022: ID6 19
+    3300024: ID6 2
+    3300026: ID6 20
+    3300028: ID6 21
+    3300030: ID6 22
+    3300032: ID6 23
+    3300034: ID6 24
+    3300036: ID6 25
+    3300038: ID6 26
+    3300040: ID6 27
+    3300042: ID6 28
+    3300044: ID6 29
+    3300046: ID6 3
+    3300048: ID6 30
+    3300050: ID6 31
+    3300052: ID6 32
+    3300054: ID6 33
+    3300056: ID6 34
+    3300058: ID6 35
+    3300060: ID6 36
+    3300062: ID6 37
+    3300064: ID6 38
+    3300066: ID6 39
+    3300068: ID6 4
+    3300070: ID6 40
+    3300072: ID6 41
+    3300074: ID6 42
+    3300076: ID6 43
+    3300078: ID6 44
+    3300080: ID6 45
+    3300082: ID6 46
+    3300084: ID6 5
+    3300086: ID6 6
+    3300088: ID6 7
+    3300090: ID6 8
+    3300092: ID6 9
+    3300094: UAV
+    3300096: UAV FLYING
+    4300000: UAV FLYING
+    4300002: ID6
+    4300004: ID6
+    4300006: ID6
+    4300008: ID6
+    4300010: ID6
+    4300012: ID6
+    4300014: ID6
+    4300016: ID6
+    4300018: ID6
+    4300020: ID6
+    4300022: ID6
+    4300024: ID6
+    4300026: ID6
+    4300028: ID6
+    4300030: ID6
+    4300032: ID6
+    4300034: ID6
+    4300036: ID6
+    4300038: ID6
+    4300040: ID6
+    4300042: ID6
+    4300044: ID6
+    4300046: ID6
+    4300048: ID6
+    4300050: ID6
+    4300052: ID6
+    4300054: ID6
+    4300056: ID6
+    4300058: ID6
+    4300060: ID6
+    4300062: ID6
+    4300064: UAV
+    4300066: ID6
+    4300068: ID6
+    4300070: ID6
+    4300072: ID6
+    4300074: ID6
+    4300076: ID6
+    4300078: ID6
+    4300080: ID6
+    4300082: ID6
+    4300084: ID6
+    4300086: ID6
+    4300088: ID6
+    4300090: ID6
+    4300092: ID6
+    4300094: ID6
+    4300096: ID6
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

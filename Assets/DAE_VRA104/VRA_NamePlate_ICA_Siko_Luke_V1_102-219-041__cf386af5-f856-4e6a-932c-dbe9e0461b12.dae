@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<COLLADA xmlns="http://www.collada.org/2005/11/COLLADASchema" version="1.4.1">
+	<asset>
+		<contributor>
+			<author>JBXL Collada Tools Library (C) 2014</author>
+			<authoring_tool>JunkBox_Lib++ (http://www.nsl.tuis.ac.jp/)</authoring_tool>
+		</contributor>
+		<created>2016-06-17T11:30-46</created>
+		<modified>2016-06-17T11:30-46</modified>
+		<unit name="meter" meter="1.000000" />
+		<up_axis>Z_UP</up_axis>
+	</asset>
+	<library_images>
+		<image id="89556747-24cb-43ed-920b-47caed15465f_AAAAAAAAAAAAAAAAAAAA0AceAB4AAABP_tga" name="89556747-24cb-43ed-920b-47caed15465f_AAAAAAAAAAAAAAAAAAAA0AceAB4AAABP_tga" height="0" width="0">
+			<init_from>89556747-24cb-43ed-920b-47caed15465f_AAAAAAAAAAAAAAAAAAAA0AceAB4AAABP.tga</init_from>
+		</image>
+		<image id="f611e4d9-9917-4ac2-b104-7354003b0982_AAAAAAAAAAAAAAAAAAAA0AceAB4AAABP_tga" name="f611e4d9-9917-4ac2-b104-7354003b0982_AAAAAAAAAAAAAAAAAAAA0AceAB4AAABP_tga" height="0" width="0">
+			<init_from>f611e4d9-9917-4ac2-b104-7354003b0982_AAAAAAAAAAAAAAAAAAAA0AceAB4AAABP.tga</init_from>
+		</image>
+	</library_images>
+	<library_materials>
+		<material id="MATERIAL_WYSnTt_AAAAAAAAAAAAAAAAAAAA0AceAB4AAABP">
+			<instance_effect url="#MATERIAL_WYSnTt_AAAAAAAAAAAAAAAAAAAA0AceAB4AAABP_URL" />
+		</material>
+		<material id="MATERIAL_tQvuWk_AAAAAAAAAAAAAAAAAAAA0AceAB4AAABP">
+			<instance_effect url="#MATERIAL_tQvuWk_AAAAAAAAAAAAAAAAAAAA0AceAB4AAABP_URL" />
+		</material>
+	</library_materials>
+	<library_geometries>
+		<geometry id="GEOMETRY_H0uiR93L" name="VRA_NamePlate_ICA_Siko_Luke_V1">
+			<mesh>
+				<source id="SOURCE_POS_f88Dz6Wg">
+					<float_array id="SOURCE_POS_ARRAY_f88Dz6Wg" count="72">-0.500000 -0.500000 0.500000 0.500000 -0.500000 0.500000 0.500000 0.500000 0.500000 -0.500000 0.500000 0.500000 -0.500000 -0.500000 0.500000 -0.500000 -0.500000 -0.500000 0.500000 -0.500000 0.500000 0.500000 -0.500000 -0.500000 0.500000 -0.500000 0.500000 0.500000 -0.500000 -0.500000 0.500000 0.500000 0.500000 0.500000 0.500000 -0.500000 0.500000 0.500000 0.500000 0.500000 0.500000 -0.500000 -0.500000 0.500000 0.500000 -0.500000 0.500000 -0.500000 -0.500000 0.500000 0.500000 -0.500000 0.500000 -0.500000 -0.500000 -0.500000 0.500000 -0.500000 -0.500000 -0.500000 0.500000 0.500000 -0.500000 0.500000 -0.500000 -0.500000 -0.500000 -0.500000 -0.500000 -0.500000 0.500000 -0.500000</float_array>
+					<technique_common>
+						<accessor source="#SOURCE_POS_ARRAY_f88Dz6Wg" count="24" stride="3">
+							<param name="X" type="float" />
+							<param name="Y" type="float" />
+							<param name="Z" type="float" />
+						</accessor>
+					</technique_common>
+				</source>
+				<source id="SOURCE_NORMAL_gdAiI9wj">
+					<float_array id="SOURCE_NORMAL_ARRAY_gdAiI9wj" count="72">0.000000 0.000000 1.000000 0.000000 0.000000 1.000000 0.000000 0.000000 1.000000 0.000000 0.000000 1.000000 -0.000000 -1.000000 0.000000 -0.000000 -1.000000 0.000000 -0.000000 -1.000000 0.000000 -0.000000 -1.000000 0.000000 1.000000 -0.000000 0.000000 1.000000 -0.000000 0.000000 1.000000 -0.000000 0.000000 1.000000 -0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 1.000000 0.000000 0.000000 1.000000 0.000000 0.000000 1.000000 0.000000 -1.000000 0.000000 0.000000 -1.000000 0.000000 0.000000 -1.000000 0.000000 0.000000 -1.000000 0.000000 0.000000 -0.000000 -0.000000 -1.000000 -0.000000 -0.000000 -1.000000 -0.000000 -0.000000 -1.000000 -0.000000 -0.000000 -1.000000</float_array>
+					<technique_common>
+						<accessor source="#SOURCE_NORMAL_ARRAY_gdAiI9wj" count="24" stride="3">
+							<param name="X" type="float" />
+							<param name="Y" type="float" />
+							<param name="Z" type="float" />
+						</accessor>
+					</technique_common>
+				</source>
+				<source id="SOURCE_MAP_P2v99sXv">
+					<float_array id="SOURCE_MAP_ARRAY_P2v99sXv" count="48">0.350000 1.350000 0.650000 1.350000 0.650000 1.650000 0.350000 1.650000 0.350000 1.650000 0.350000 1.350000 0.650000 1.650000 0.650000 1.350000 0.350000 1.650000 0.350000 1.350000 0.650000 1.650000 0.650000 1.350000 0.350000 1.650000 0.350000 1.350000 0.650000 1.650000 0.650000 1.350000 0.350000 1.650000 0.350000 1.350000 0.650000 1.650000 0.650000 1.350000 0.650000 1.350000 0.650000 1.650000 0.350000 1.650000 0.350000 1.350000</float_array>
+					<technique_common>
+						<accessor source="#SOURCE_MAP_ARRAY_P2v99sXv" count="24" stride="2">
+							<param name="S" type="float" />
+							<param name="T" type="float" />
+						</accessor>
+					</technique_common>
+				</source>
+				<vertices id="VERTEX_iaQ82Hfn">
+					<input semantic="POSITION" source="#SOURCE_POS_f88Dz6Wg" />
+				</vertices>
+				<polylist count="2" material="MATERIAL_WYSnTt_AAAAAAAAAAAAAAAAAAAA0AceAB4AAABP">
+					<input semantic="VERTEX" source="#VERTEX_iaQ82Hfn" offset="0" />
+					<input semantic="NORMAL" source="#SOURCE_NORMAL_gdAiI9wj" offset="0" />
+					<input semantic="TEXCOORD" source="#SOURCE_MAP_P2v99sXv" offset="0" />
+					<vcount>3 3</vcount>
+					<p>0 1 2  0 2 3 </p>
+				</polylist>
+				<polylist count="2" material="MATERIAL_WYSnTt_AAAAAAAAAAAAAAAAAAAA0AceAB4AAABP">
+					<input semantic="VERTEX" source="#VERTEX_iaQ82Hfn" offset="0" />
+					<input semantic="NORMAL" source="#SOURCE_NORMAL_gdAiI9wj" offset="0" />
+					<input semantic="TEXCOORD" source="#SOURCE_MAP_P2v99sXv" offset="0" />
+					<vcount>3 3</vcount>
+					<p>4 5 6  6 5 7 </p>
+				</polylist>
+				<polylist count="2" material="MATERIAL_tQvuWk_AAAAAAAAAAAAAAAAAAAA0AceAB4AAABP">
+					<input semantic="VERTEX" source="#VERTEX_iaQ82Hfn" offset="0" />
+					<input semantic="NORMAL" source="#SOURCE_NORMAL_gdAiI9wj" offset="0" />
+					<input semantic="TEXCOORD" source="#SOURCE_MAP_P2v99sXv" offset="0" />
+					<vcount>3 3</vcount>
+					<p>8 9 10  10 9 11 </p>
+				</polylist>
+				<polylist count="2" material="MATERIAL_WYSnTt_AAAAAAAAAAAAAAAAAAAA0AceAB4AAABP">
+					<input semantic="VERTEX" source="#VERTEX_iaQ82Hfn" offset="0" />
+					<input semantic="NORMAL" source="#SOURCE_NORMAL_gdAiI9wj" offset="0" />
+					<input semantic="TEXCOORD" source="#SOURCE_MAP_P2v99sXv" offset="0" />
+					<vcount>3 3</vcount>
+					<p>12 13 14  14 13 15 </p>
+				</polylist>
+				<polylist count="2" material="MATERIAL_WYSnTt_AAAAAAAAAAAAAAAAAAAA0AceAB4AAABP">
+					<input semantic="VERTEX" source="#VERTEX_iaQ82Hfn" offset="0" />
+					<input semantic="NORMAL" source="#SOURCE_NORMAL_gdAiI9wj" offset="0" />
+					<input semantic="TEXCOORD" source="#SOURCE_MAP_P2v99sXv" offset="0" />
+					<vcount>3 3</vcount>
+					<p>16 17 18  18 17 19 </p>
+				</polylist>
+				<polylist count="2" material="MATERIAL_WYSnTt_AAAAAAAAAAAAAAAAAAAA0AceAB4AAABP">
+					<input semantic="VERTEX" source="#VERTEX_iaQ82Hfn" offset="0" />
+					<input semantic="NORMAL" source="#SOURCE_NORMAL_gdAiI9wj" offset="0" />
+					<input semantic="TEXCOORD" source="#SOURCE_MAP_P2v99sXv" offset="0" />
+					<vcount>3 3</vcount>
+					<p>20 21 22  23 20 22 </p>
+				</polylist>
+			</mesh>
+		</geometry>
+	</library_geometries>
+	<library_effects>
+		<effect id="MATERIAL_WYSnTt_AAAAAAAAAAAAAAAAAAAA0AceAB4AAABP_URL">
+			<profile_COMMON>
+				<newparam sid="89556747-24cb-43ed-920b-47caed15465f_AAAAAAAAAAAAAAAAAAAA0AceAB4AAABP_tga-KIfz8-surface">
+					<surface type="2D">
+						<init_from>89556747-24cb-43ed-920b-47caed15465f_AAAAAAAAAAAAAAAAAAAA0AceAB4AAABP_tga</init_from>
+					</surface>
+				</newparam>
+				<newparam sid="89556747-24cb-43ed-920b-47caed15465f_AAAAAAAAAAAAAAAAAAAA0AceAB4AAABP_tga-KIfz8-sampler">
+					<sampler2D>
+						<source>89556747-24cb-43ed-920b-47caed15465f_AAAAAAAAAAAAAAAAAAAA0AceAB4AAABP_tga-KIfz8-surface</source>
+					</sampler2D>
+				</newparam>
+				<technique sid="common">
+					<phong>
+						<diffuse>
+							<texture texture="89556747-24cb-43ed-920b-47caed15465f_AAAAAAAAAAAAAAAAAAAA0AceAB4AAABP_tga-KIfz8-sampler" texcoord="89556747-24cb-43ed-920b-47caed15465f_AAAAAAAAAAAAAAAAAAAA0AceAB4AAABP_tga" />
+						</diffuse>
+					</phong>
+				</technique>
+			</profile_COMMON>
+		</effect>
+		<effect id="MATERIAL_tQvuWk_AAAAAAAAAAAAAAAAAAAA0AceAB4AAABP_URL">
+			<profile_COMMON>
+				<newparam sid="f611e4d9-9917-4ac2-b104-7354003b0982_AAAAAAAAAAAAAAAAAAAA0AceAB4AAABP_tga-VuJ5N-surface">
+					<surface type="2D">
+						<init_from>f611e4d9-9917-4ac2-b104-7354003b0982_AAAAAAAAAAAAAAAAAAAA0AceAB4AAABP_tga</init_from>
+					</surface>
+				</newparam>
+				<newparam sid="f611e4d9-9917-4ac2-b104-7354003b0982_AAAAAAAAAAAAAAAAAAAA0AceAB4AAABP_tga-VuJ5N-sampler">
+					<sampler2D>
+						<source>f611e4d9-9917-4ac2-b104-7354003b0982_AAAAAAAAAAAAAAAAAAAA0AceAB4AAABP_tga-VuJ5N-surface</source>
+					</sampler2D>
+				</newparam>
+				<technique sid="common">
+					<phong>
+						<diffuse>
+							<texture texture="f611e4d9-9917-4ac2-b104-7354003b0982_AAAAAAAAAAAAAAAAAAAA0AceAB4AAABP_tga-VuJ5N-sampler" texcoord="f611e4d9-9917-4ac2-b104-7354003b0982_AAAAAAAAAAAAAAAAAAAA0AceAB4AAABP_tga" />
+						</diffuse>
+					</phong>
+				</technique>
+			</profile_COMMON>
+		</effect>
+	</library_effects>
+	<library_physics_models>
+		<physics_model id="Physics_Model" name="Physics_Model">
+			<rigid_body sid="NODE_x6D80yQK" name="VRA_NamePlate_ICA_Siko_Luke_V1">
+				<technique_common>
+					<dynamic>false</dynamic>
+					<mass>0</mass>
+					<shape>
+						<instance_geometry url="#GEOMETRY_H0uiR93L" />
+					</shape>
+				</technique_common>
+			</rigid_body>
+		</physics_model>
+	</library_physics_models>
+	<library_physics_scenes>
+		<physics_scene id="Physics_Scene" name="Physics_Scene">
+			<instance_physics_model url="#Physics_Model">
+				<instance_rigid_body body="NODE_x6D80yQK" target="#NODE_x6D80yQK" />
+			</instance_physics_model>
+		</physics_scene>
+	</library_physics_scenes>
+	<library_visual_scenes>
+		<visual_scene id="Scene" name="Scene">
+			<node id="NODE_x6D80yQK" name="VRA_NamePlate_ICA_Siko_Luke_V1" type="NODE">
+				<matrix>-0.000000 1.000000 0.000000 -25.960098 -1.000000 -0.000000 0.000000 90.716400 0.000000 0.000000 1.000000 20.635349 0.000000 0.000000 0.000000 1.000000</matrix>
+				<scale sid="scale">0.184609 3.692170 1.846085</scale>
+				<instance_geometry url="#GEOMETRY_H0uiR93L">
+					<bind_material>
+						<technique_common>
+							<instance_material symbol="MATERIAL_WYSnTt_AAAAAAAAAAAAAAAAAAAA0AceAB4AAABP" target="#MATERIAL_WYSnTt_AAAAAAAAAAAAAAAAAAAA0AceAB4AAABP" />
+							<instance_material symbol="MATERIAL_tQvuWk_AAAAAAAAAAAAAAAAAAAA0AceAB4AAABP" target="#MATERIAL_tQvuWk_AAAAAAAAAAAAAAAAAAAA0AceAB4AAABP" />
+						</technique_common>
+					</bind_material>
+				</instance_geometry>
+			</node>
+		</visual_scene>
+	</library_visual_scenes>
+	<scene>
+		<instance_physics_scene url="#Physics_Scene" />
+		<instance_visual_scene url="#Scene" />
+	</scene>
+</COLLADA>

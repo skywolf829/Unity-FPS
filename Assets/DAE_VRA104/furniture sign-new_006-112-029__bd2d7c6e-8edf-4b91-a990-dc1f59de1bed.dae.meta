@@ -1,0 +1,189 @@
+fileFormatVersion: 2
+guid: 88b987320b2e75f419f49a8065ac9d46
+timeCreated: 1466883090
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: furniture sign-new
+    100002: //RootNode
+    100004: Primitive
+    100006: Primitive 1
+    100008: Primitive 2
+    100010: Primitive 3
+    100012: Primitive 4
+    100014: Primitive 5
+    100016: screw head
+    100018: screw head 1
+    100020: screw head 10
+    100022: screw head 11
+    100024: screw head 12
+    100026: screw head 13
+    100028: screw head 14
+    100030: screw head 15
+    100032: screw head 2
+    100034: screw head 3
+    100036: screw head 4
+    100038: screw head 5
+    100040: screw head 6
+    100042: screw head 7
+    100044: screw head 8
+    100046: screw head 9
+    400000: furniture sign-new
+    400002: //RootNode
+    400004: Primitive
+    400006: Primitive 1
+    400008: Primitive 2
+    400010: Primitive 3
+    400012: Primitive 4
+    400014: Primitive 5
+    400016: screw head
+    400018: screw head 1
+    400020: screw head 10
+    400022: screw head 11
+    400024: screw head 12
+    400026: screw head 13
+    400028: screw head 14
+    400030: screw head 15
+    400032: screw head 2
+    400034: screw head 3
+    400036: screw head 4
+    400038: screw head 5
+    400040: screw head 6
+    400042: screw head 7
+    400044: screw head 8
+    400046: screw head 9
+    2300000: furniture sign-new
+    2300002: Primitive
+    2300004: Primitive 1
+    2300006: Primitive 2
+    2300008: Primitive 3
+    2300010: Primitive 4
+    2300012: Primitive 5
+    2300014: screw head
+    2300016: screw head 1
+    2300018: screw head 10
+    2300020: screw head 11
+    2300022: screw head 12
+    2300024: screw head 13
+    2300026: screw head 14
+    2300028: screw head 15
+    2300030: screw head 2
+    2300032: screw head 3
+    2300034: screw head 4
+    2300036: screw head 5
+    2300038: screw head 6
+    2300040: screw head 7
+    2300042: screw head 8
+    2300044: screw head 9
+    3300000: furniture sign-new
+    3300002: Primitive
+    3300004: Primitive 1
+    3300006: Primitive 2
+    3300008: Primitive 3
+    3300010: Primitive 4
+    3300012: Primitive 5
+    3300014: screw head
+    3300016: screw head 1
+    3300018: screw head 10
+    3300020: screw head 11
+    3300022: screw head 12
+    3300024: screw head 13
+    3300026: screw head 14
+    3300028: screw head 15
+    3300030: screw head 2
+    3300032: screw head 3
+    3300034: screw head 4
+    3300036: screw head 5
+    3300038: screw head 6
+    3300040: screw head 7
+    3300042: screw head 8
+    3300044: screw head 9
+    4300000: furniture sign-new
+    4300002: Primitive
+    4300004: screw head
+    4300006: screw head
+    4300008: screw head
+    4300010: screw head
+    4300012: Primitive
+    4300014: screw head
+    4300016: screw head
+    4300018: screw head
+    4300020: screw head
+    4300022: Primitive
+    4300024: screw head
+    4300026: screw head
+    4300028: screw head
+    4300030: screw head
+    4300032: Primitive
+    4300034: screw head
+    4300036: screw head
+    4300038: screw head
+    4300040: screw head
+    4300042: Primitive
+    4300044: Primitive
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

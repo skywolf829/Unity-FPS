@@ -1,0 +1,1109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<COLLADA xmlns="http://www.collada.org/2005/11/COLLADASchema" version="1.4.1">
+	<asset>
+		<contributor>
+			<author>JBXL Collada Tools Library (C) 2014</author>
+			<authoring_tool>JunkBox_Lib++ (http://www.nsl.tuis.ac.jp/)</authoring_tool>
+		</contributor>
+		<created>2016-06-17T11:30-13</created>
+		<modified>2016-06-17T11:30-13</modified>
+		<unit name="meter" meter="1.000000" />
+		<up_axis>Z_UP</up_axis>
+	</asset>
+	<library_images>
+		<image id="00000000-0000-1111-9999-000000000005_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP_tga" name="00000000-0000-1111-9999-000000000005_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP_tga" height="0" width="0">
+			<init_from>00000000-0000-1111-9999-000000000005_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP.tga</init_from>
+		</image>
+		<image id="5748decc-f629-461c-9a36-a35a221fe21f_lMn+AAAAAAAAAAAAAAAAAABkAGQAAABP_tga" name="5748decc-f629-461c-9a36-a35a221fe21f_lMn+AAAAAAAAAAAAAAAAAABkAGQAAABP_tga" height="0" width="0">
+			<init_from>5748decc-f629-461c-9a36-a35a221fe21f_lMn+AAAAAAAAAAAAAAAAAABkAGQAAABP.tga</init_from>
+		</image>
+		<image id="80a4ba2b-b087-42b6-89d2-2034d7e02b68_lMn+AAAAAP8AAAAAAAAAAABkAGQAAABP_tga" name="80a4ba2b-b087-42b6-89d2-2034d7e02b68_lMn+AAAAAP8AAAAAAAAAAABkAGQAAABP_tga" height="0" width="0">
+			<init_from>80a4ba2b-b087-42b6-89d2-2034d7e02b68_lMn+AAAAAP8AAAAAAAAAAABkAGQAAABP.tga</init_from>
+		</image>
+	</library_images>
+	<library_materials>
+		<material id="MATERIAL_io74so_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP">
+			<instance_effect url="#MATERIAL_io74so_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP_URL" />
+		</material>
+		<material id="MATERIAL_yjiPij_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP">
+			<instance_effect url="#MATERIAL_yjiPij_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP_URL" />
+		</material>
+		<material id="MATERIAL_pUeed2_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP">
+			<instance_effect url="#MATERIAL_pUeed2_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP_URL" />
+		</material>
+		<material id="MATERIAL_Uxjz9b_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP">
+			<instance_effect url="#MATERIAL_Uxjz9b_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP_URL" />
+		</material>
+		<material id="MATERIAL_Swmsad_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP">
+			<instance_effect url="#MATERIAL_Swmsad_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP_URL" />
+		</material>
+		<material id="MATERIAL_qTADYr_lMn+AAAAAAAAAAAAAAAAAABkAGQAAABP">
+			<instance_effect url="#MATERIAL_qTADYr_lMn+AAAAAAAAAAAAAAAAAABkAGQAAABP_URL" />
+		</material>
+		<material id="MATERIAL_S1JyNe_lMn+AAAAAP8AAAAAAAAAAABkAGQAAABP">
+			<instance_effect url="#MATERIAL_S1JyNe_lMn+AAAAAP8AAAAAAAAAAABkAGQAAABP_URL" />
+		</material>
+		<material id="MATERIAL_PnqmVJ_lMn+AAAAAAAAAAAAAAAAAABkAGQAAABP">
+			<instance_effect url="#MATERIAL_PnqmVJ_lMn+AAAAAAAAAAAAAAAAAABkAGQAAABP_URL" />
+		</material>
+		<material id="MATERIAL_IlSIJ0_lMn+AAAAAP8AAAAAAAAAAABkAGQAAABP">
+			<instance_effect url="#MATERIAL_IlSIJ0_lMn+AAAAAP8AAAAAAAAAAABkAGQAAABP_URL" />
+		</material>
+		<material id="MATERIAL_fA8uZn_lMn+AAAAAAAAAAAAAAAAAABkAGQAAABP">
+			<instance_effect url="#MATERIAL_fA8uZn_lMn+AAAAAAAAAAAAAAAAAABkAGQAAABP_URL" />
+		</material>
+		<material id="MATERIAL_UlXMM8_lMn+AAAAAP8AAAAAAAAAAABkAGQAAABP">
+			<instance_effect url="#MATERIAL_UlXMM8_lMn+AAAAAP8AAAAAAAAAAABkAGQAAABP_URL" />
+		</material>
+	</library_materials>
+	<library_geometries>
+		<geometry id="GEOMETRY_M1E9nQmI" name="Bookshelf">
+			<mesh>
+				<source id="SOURCE_POS_B3LNU2Wv">
+					<float_array id="SOURCE_POS_ARRAY_B3LNU2Wv" count="132">0.500000 -0.500000 0.500000 0.500000 0.500000 0.500000 0.470000 -0.470000 0.500000 0.470000 0.470000 0.500000 -0.500000 0.500000 0.500000 -0.470000 0.470000 0.500000 -0.500000 -0.500000 0.500000 -0.470000 -0.470000 0.500000 0.500000 -0.500000 0.500000 0.500000 -0.500000 -0.500000 0.500000 0.500000 0.500000 0.500000 0.500000 -0.500000 0.500000 0.500000 0.500000 0.500000 0.500000 -0.500000 -0.500000 0.500000 0.500000 -0.500000 0.500000 -0.500000 -0.500000 0.500000 0.500000 -0.500000 0.500000 -0.500000 -0.500000 -0.500000 0.500000 -0.500000 -0.500000 -0.500000 -0.470000 -0.470000 0.500000 -0.470000 -0.470000 -0.500000 -0.470000 0.470000 0.500000 -0.470000 0.470000 -0.500000 0.470000 0.470000 0.500000 0.470000 0.470000 -0.500000 0.470000 -0.470000 0.500000 0.470000 -0.470000 -0.500000 0.470000 -0.470000 -0.500000 0.500000 0.500000 -0.500000 0.500000 -0.500000 -0.500000 0.470000 0.470000 -0.500000 -0.500000 0.500000 -0.500000 -0.470000 0.470000 -0.500000 -0.500000 -0.500000 -0.500000 -0.470000 -0.470000 -0.500000 0.470000 -0.470000 0.500000 0.470000 -0.470000 -0.500000 0.500000 -0.500000 0.500000 0.500000 -0.500000 -0.500000 -0.500000 -0.500000 0.500000 -0.500000 -0.500000 -0.500000 -0.470000 -0.470000 0.500000 -0.470000 -0.470000 -0.500000</float_array>
+					<technique_common>
+						<accessor source="#SOURCE_POS_ARRAY_B3LNU2Wv" count="44" stride="3">
+							<param name="X" type="float" />
+							<param name="Y" type="float" />
+							<param name="Z" type="float" />
+						</accessor>
+					</technique_common>
+				</source>
+				<source id="SOURCE_NORMAL_kjdhMBYI">
+					<float_array id="SOURCE_NORMAL_ARRAY_kjdhMBYI" count="132">0.000000 0.000000 1.000000 0.000000 0.000000 1.000000 0.000000 0.000000 1.000000 0.000000 0.000000 1.000000 0.000000 0.000000 1.000000 0.000000 0.000000 1.000000 0.000000 0.000000 1.000000 0.000000 0.000000 1.000000 1.000000 -0.000000 0.000000 1.000000 -0.000000 0.000000 1.000000 -0.000000 0.000000 1.000000 -0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 1.000000 0.000000 0.000000 1.000000 0.000000 0.000000 1.000000 0.000000 -1.000000 0.000000 0.000000 -1.000000 0.000000 0.000000 -1.000000 0.000000 0.000000 -1.000000 0.000000 0.000000 1.000000 -0.000000 0.000000 1.000000 -0.000000 0.000000 1.000000 -0.000000 0.000000 1.000000 -0.000000 0.000000 -0.000000 -1.000000 0.000000 -0.000000 -1.000000 0.000000 -1.000000 0.000000 0.000000 -1.000000 0.000000 0.000000 -0.000000 -0.000000 -1.000000 -0.000000 -0.000000 -1.000000 -0.000000 -0.000000 -1.000000 -0.000000 -0.000000 -1.000000 -0.000000 -0.000000 -1.000000 -0.000000 -0.000000 -1.000000 -0.000000 -0.000000 -1.000000 -0.000000 -0.000000 -1.000000 -0.707107 -0.707107 0.000000 -0.707107 -0.707107 0.000000 -0.707107 -0.707107 0.000000 -0.707107 -0.707107 0.000000 0.707107 -0.707107 0.000000 0.707107 -0.707107 0.000000 0.707107 -0.707107 0.000000 0.707107 -0.707107 0.000000</float_array>
+					<technique_common>
+						<accessor source="#SOURCE_NORMAL_ARRAY_kjdhMBYI" count="44" stride="3">
+							<param name="X" type="float" />
+							<param name="Y" type="float" />
+							<param name="Z" type="float" />
+						</accessor>
+					</technique_common>
+				</source>
+				<source id="SOURCE_MAP_iPYQUt7b">
+					<float_array id="SOURCE_MAP_ARRAY_iPYQUt7b" count="88">1.000000 -0.000000 1.000000 1.000000 0.970000 0.030000 0.970000 0.970000 0.000000 1.000000 0.030000 0.970000 -0.000000 0.000000 0.030000 0.030000 0.000000 0.999999 0.000000 0.000000 1.000000 0.999999 1.000000 0.000000 0.000000 0.999999 0.000000 0.000000 1.000000 0.999999 1.000000 0.000000 0.000000 0.999999 0.000000 0.000000 1.000000 0.999999 1.000000 0.000000 0.940000 0.999999 0.940000 0.000000 0.705000 0.999999 0.705000 0.000000 0.470000 0.999999 0.470000 0.000000 0.235000 0.999999 0.235000 0.000000 0.970000 0.970000 1.000000 0.000000 1.000000 1.000000 0.970000 0.030000 0.000000 -0.000000 0.030000 0.030000 -0.000000 1.000000 0.030000 0.970000 0.000000 0.999999 0.000000 0.000000 1.000000 0.999999 1.000000 0.000000 0.000000 0.999999 0.000000 0.000000 1.000000 0.999999 1.000000 0.000000</float_array>
+					<technique_common>
+						<accessor source="#SOURCE_MAP_ARRAY_iPYQUt7b" count="44" stride="2">
+							<param name="S" type="float" />
+							<param name="T" type="float" />
+						</accessor>
+					</technique_common>
+				</source>
+				<vertices id="VERTEX_1TLndDrf">
+					<input semantic="POSITION" source="#SOURCE_POS_B3LNU2Wv" />
+				</vertices>
+				<polylist count="6" material="MATERIAL_io74so_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP">
+					<input semantic="VERTEX" source="#VERTEX_1TLndDrf" offset="0" />
+					<input semantic="NORMAL" source="#SOURCE_NORMAL_kjdhMBYI" offset="0" />
+					<input semantic="TEXCOORD" source="#SOURCE_MAP_iPYQUt7b" offset="0" />
+					<vcount>3 3 3 3 3 3</vcount>
+					<p>0 1 2  1 3 2  1 4 3  4 5 3  4 6 5  6 7 5 </p>
+				</polylist>
+				<polylist count="2" material="MATERIAL_io74so_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP">
+					<input semantic="VERTEX" source="#VERTEX_1TLndDrf" offset="0" />
+					<input semantic="NORMAL" source="#SOURCE_NORMAL_kjdhMBYI" offset="0" />
+					<input semantic="TEXCOORD" source="#SOURCE_MAP_iPYQUt7b" offset="0" />
+					<vcount>3 3</vcount>
+					<p>8 9 10  10 9 11 </p>
+				</polylist>
+				<polylist count="2" material="MATERIAL_io74so_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP">
+					<input semantic="VERTEX" source="#VERTEX_1TLndDrf" offset="0" />
+					<input semantic="NORMAL" source="#SOURCE_NORMAL_kjdhMBYI" offset="0" />
+					<input semantic="TEXCOORD" source="#SOURCE_MAP_iPYQUt7b" offset="0" />
+					<vcount>3 3</vcount>
+					<p>12 13 14  14 13 15 </p>
+				</polylist>
+				<polylist count="2" material="MATERIAL_io74so_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP">
+					<input semantic="VERTEX" source="#VERTEX_1TLndDrf" offset="0" />
+					<input semantic="NORMAL" source="#SOURCE_NORMAL_kjdhMBYI" offset="0" />
+					<input semantic="TEXCOORD" source="#SOURCE_MAP_iPYQUt7b" offset="0" />
+					<vcount>3 3</vcount>
+					<p>16 17 18  18 17 19 </p>
+				</polylist>
+				<polylist count="6" material="MATERIAL_io74so_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP">
+					<input semantic="VERTEX" source="#VERTEX_1TLndDrf" offset="0" />
+					<input semantic="NORMAL" source="#SOURCE_NORMAL_kjdhMBYI" offset="0" />
+					<input semantic="TEXCOORD" source="#SOURCE_MAP_iPYQUt7b" offset="0" />
+					<vcount>3 3 3 3 3 3</vcount>
+					<p>20 21 22  22 21 23  22 23 24  24 23 25  24 25 26  26 25 27 </p>
+				</polylist>
+				<polylist count="6" material="MATERIAL_io74so_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP">
+					<input semantic="VERTEX" source="#VERTEX_1TLndDrf" offset="0" />
+					<input semantic="NORMAL" source="#SOURCE_NORMAL_kjdhMBYI" offset="0" />
+					<input semantic="TEXCOORD" source="#SOURCE_MAP_iPYQUt7b" offset="0" />
+					<vcount>3 3 3 3 3 3</vcount>
+					<p>28 29 30  28 31 29  31 32 29  31 33 32  33 34 32  33 35 34 </p>
+				</polylist>
+				<polylist count="2" material="MATERIAL_io74so_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP">
+					<input semantic="VERTEX" source="#VERTEX_1TLndDrf" offset="0" />
+					<input semantic="NORMAL" source="#SOURCE_NORMAL_kjdhMBYI" offset="0" />
+					<input semantic="TEXCOORD" source="#SOURCE_MAP_iPYQUt7b" offset="0" />
+					<vcount>3 3</vcount>
+					<p>36 37 38  38 37 39 </p>
+				</polylist>
+				<polylist count="2" material="MATERIAL_io74so_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP">
+					<input semantic="VERTEX" source="#VERTEX_1TLndDrf" offset="0" />
+					<input semantic="NORMAL" source="#SOURCE_NORMAL_kjdhMBYI" offset="0" />
+					<input semantic="TEXCOORD" source="#SOURCE_MAP_iPYQUt7b" offset="0" />
+					<vcount>3 3</vcount>
+					<p>40 41 42  42 41 43 </p>
+				</polylist>
+			</mesh>
+		</geometry>
+		<geometry id="GEOMETRY_yt7cx0Zd" name="Primitive">
+			<mesh>
+				<source id="SOURCE_POS_Qpb8svYi">
+					<float_array id="SOURCE_POS_ARRAY_Qpb8svYi" count="72">-0.500000 -0.500000 0.500000 0.500000 -0.500000 0.500000 0.500000 0.500000 0.500000 -0.500000 0.500000 0.500000 -0.500000 -0.500000 0.500000 -0.500000 -0.500000 -0.500000 0.500000 -0.500000 0.500000 0.500000 -0.500000 -0.500000 0.500000 -0.500000 0.500000 0.500000 -0.500000 -0.500000 0.500000 0.500000 0.500000 0.500000 0.500000 -0.500000 0.500000 0.500000 0.500000 0.500000 0.500000 -0.500000 -0.500000 0.500000 0.500000 -0.500000 0.500000 -0.500000 -0.500000 0.500000 0.500000 -0.500000 0.500000 -0.500000 -0.500000 -0.500000 0.500000 -0.500000 -0.500000 -0.500000 0.500000 0.500000 -0.500000 0.500000 -0.500000 -0.500000 -0.500000 -0.500000 -0.500000 -0.500000 0.500000 -0.500000</float_array>
+					<technique_common>
+						<accessor source="#SOURCE_POS_ARRAY_Qpb8svYi" count="24" stride="3">
+							<param name="X" type="float" />
+							<param name="Y" type="float" />
+							<param name="Z" type="float" />
+						</accessor>
+					</technique_common>
+				</source>
+				<source id="SOURCE_NORMAL_Q7vchZ3V">
+					<float_array id="SOURCE_NORMAL_ARRAY_Q7vchZ3V" count="72">0.000000 0.000000 1.000000 0.000000 0.000000 1.000000 0.000000 0.000000 1.000000 0.000000 0.000000 1.000000 -0.000000 -1.000000 0.000000 -0.000000 -1.000000 0.000000 -0.000000 -1.000000 0.000000 -0.000000 -1.000000 0.000000 1.000000 -0.000000 0.000000 1.000000 -0.000000 0.000000 1.000000 -0.000000 0.000000 1.000000 -0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 1.000000 0.000000 0.000000 1.000000 0.000000 0.000000 1.000000 0.000000 -1.000000 0.000000 0.000000 -1.000000 0.000000 0.000000 -1.000000 0.000000 0.000000 -1.000000 0.000000 0.000000 -0.000000 -0.000000 -1.000000 -0.000000 -0.000000 -1.000000 -0.000000 -0.000000 -1.000000 -0.000000 -0.000000 -1.000000</float_array>
+					<technique_common>
+						<accessor source="#SOURCE_NORMAL_ARRAY_Q7vchZ3V" count="24" stride="3">
+							<param name="X" type="float" />
+							<param name="Y" type="float" />
+							<param name="Z" type="float" />
+						</accessor>
+					</technique_common>
+				</source>
+				<source id="SOURCE_MAP_TlyRIcEu">
+					<float_array id="SOURCE_MAP_ARRAY_TlyRIcEu" count="48">-0.000000 0.000000 1.000000 -0.000000 1.000000 1.000000 0.000000 1.000000 0.000000 0.999999 0.000000 0.000000 1.000000 0.999999 1.000000 0.000000 0.000000 0.999999 0.000000 0.000000 1.000000 0.999999 1.000000 0.000000 0.000000 0.999999 0.000000 0.000000 1.000000 0.999999 1.000000 0.000000 0.000000 0.999999 0.000000 0.000000 1.000000 0.999999 1.000000 0.000000 1.000000 0.000000 1.000000 1.000000 -0.000000 1.000000 0.000000 -0.000000</float_array>
+					<technique_common>
+						<accessor source="#SOURCE_MAP_ARRAY_TlyRIcEu" count="24" stride="2">
+							<param name="S" type="float" />
+							<param name="T" type="float" />
+						</accessor>
+					</technique_common>
+				</source>
+				<vertices id="VERTEX_6Sqd7cvB">
+					<input semantic="POSITION" source="#SOURCE_POS_Qpb8svYi" />
+				</vertices>
+				<polylist count="2" material="MATERIAL_yjiPij_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP">
+					<input semantic="VERTEX" source="#VERTEX_6Sqd7cvB" offset="0" />
+					<input semantic="NORMAL" source="#SOURCE_NORMAL_Q7vchZ3V" offset="0" />
+					<input semantic="TEXCOORD" source="#SOURCE_MAP_TlyRIcEu" offset="0" />
+					<vcount>3 3</vcount>
+					<p>0 1 2  0 2 3 </p>
+				</polylist>
+				<polylist count="2" material="MATERIAL_yjiPij_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP">
+					<input semantic="VERTEX" source="#VERTEX_6Sqd7cvB" offset="0" />
+					<input semantic="NORMAL" source="#SOURCE_NORMAL_Q7vchZ3V" offset="0" />
+					<input semantic="TEXCOORD" source="#SOURCE_MAP_TlyRIcEu" offset="0" />
+					<vcount>3 3</vcount>
+					<p>4 5 6  6 5 7 </p>
+				</polylist>
+				<polylist count="2" material="MATERIAL_yjiPij_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP">
+					<input semantic="VERTEX" source="#VERTEX_6Sqd7cvB" offset="0" />
+					<input semantic="NORMAL" source="#SOURCE_NORMAL_Q7vchZ3V" offset="0" />
+					<input semantic="TEXCOORD" source="#SOURCE_MAP_TlyRIcEu" offset="0" />
+					<vcount>3 3</vcount>
+					<p>8 9 10  10 9 11 </p>
+				</polylist>
+				<polylist count="2" material="MATERIAL_yjiPij_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP">
+					<input semantic="VERTEX" source="#VERTEX_6Sqd7cvB" offset="0" />
+					<input semantic="NORMAL" source="#SOURCE_NORMAL_Q7vchZ3V" offset="0" />
+					<input semantic="TEXCOORD" source="#SOURCE_MAP_TlyRIcEu" offset="0" />
+					<vcount>3 3</vcount>
+					<p>12 13 14  14 13 15 </p>
+				</polylist>
+				<polylist count="2" material="MATERIAL_yjiPij_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP">
+					<input semantic="VERTEX" source="#VERTEX_6Sqd7cvB" offset="0" />
+					<input semantic="NORMAL" source="#SOURCE_NORMAL_Q7vchZ3V" offset="0" />
+					<input semantic="TEXCOORD" source="#SOURCE_MAP_TlyRIcEu" offset="0" />
+					<vcount>3 3</vcount>
+					<p>16 17 18  18 17 19 </p>
+				</polylist>
+				<polylist count="2" material="MATERIAL_yjiPij_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP">
+					<input semantic="VERTEX" source="#VERTEX_6Sqd7cvB" offset="0" />
+					<input semantic="NORMAL" source="#SOURCE_NORMAL_Q7vchZ3V" offset="0" />
+					<input semantic="TEXCOORD" source="#SOURCE_MAP_TlyRIcEu" offset="0" />
+					<vcount>3 3</vcount>
+					<p>20 21 22  23 20 22 </p>
+				</polylist>
+			</mesh>
+		</geometry>
+		<geometry id="GEOMETRY_3qtC342j" name="Primitive">
+			<mesh>
+				<source id="SOURCE_POS_Lk4Pu1PM">
+					<float_array id="SOURCE_POS_ARRAY_Lk4Pu1PM" count="72">-0.500000 -0.500000 0.500000 0.500000 -0.500000 0.500000 0.500000 0.500000 0.500000 -0.500000 0.500000 0.500000 -0.500000 -0.500000 0.500000 -0.500000 -0.500000 -0.500000 0.500000 -0.500000 0.500000 0.500000 -0.500000 -0.500000 0.500000 -0.500000 0.500000 0.500000 -0.500000 -0.500000 0.500000 0.500000 0.500000 0.500000 0.500000 -0.500000 0.500000 0.500000 0.500000 0.500000 0.500000 -0.500000 -0.500000 0.500000 0.500000 -0.500000 0.500000 -0.500000 -0.500000 0.500000 0.500000 -0.500000 0.500000 -0.500000 -0.500000 -0.500000 0.500000 -0.500000 -0.500000 -0.500000 0.500000 0.500000 -0.500000 0.500000 -0.500000 -0.500000 -0.500000 -0.500000 -0.500000 -0.500000 0.500000 -0.500000</float_array>
+					<technique_common>
+						<accessor source="#SOURCE_POS_ARRAY_Lk4Pu1PM" count="24" stride="3">
+							<param name="X" type="float" />
+							<param name="Y" type="float" />
+							<param name="Z" type="float" />
+						</accessor>
+					</technique_common>
+				</source>
+				<source id="SOURCE_NORMAL_TMwjPY5B">
+					<float_array id="SOURCE_NORMAL_ARRAY_TMwjPY5B" count="72">0.000000 0.000000 1.000000 0.000000 0.000000 1.000000 0.000000 0.000000 1.000000 0.000000 0.000000 1.000000 -0.000000 -1.000000 0.000000 -0.000000 -1.000000 0.000000 -0.000000 -1.000000 0.000000 -0.000000 -1.000000 0.000000 1.000000 -0.000000 0.000000 1.000000 -0.000000 0.000000 1.000000 -0.000000 0.000000 1.000000 -0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 1.000000 0.000000 0.000000 1.000000 0.000000 0.000000 1.000000 0.000000 -1.000000 0.000000 0.000000 -1.000000 0.000000 0.000000 -1.000000 0.000000 0.000000 -1.000000 0.000000 0.000000 -0.000000 -0.000000 -1.000000 -0.000000 -0.000000 -1.000000 -0.000000 -0.000000 -1.000000 -0.000000 -0.000000 -1.000000</float_array>
+					<technique_common>
+						<accessor source="#SOURCE_NORMAL_ARRAY_TMwjPY5B" count="24" stride="3">
+							<param name="X" type="float" />
+							<param name="Y" type="float" />
+							<param name="Z" type="float" />
+						</accessor>
+					</technique_common>
+				</source>
+				<source id="SOURCE_MAP_aNSShTXj">
+					<float_array id="SOURCE_MAP_ARRAY_aNSShTXj" count="48">-0.000000 0.000000 1.000000 -0.000000 1.000000 1.000000 0.000000 1.000000 0.000000 0.999999 0.000000 0.000000 1.000000 0.999999 1.000000 0.000000 0.000000 0.999999 0.000000 0.000000 1.000000 0.999999 1.000000 0.000000 0.000000 0.999999 0.000000 0.000000 1.000000 0.999999 1.000000 0.000000 0.000000 0.999999 0.000000 0.000000 1.000000 0.999999 1.000000 0.000000 1.000000 0.000000 1.000000 1.000000 -0.000000 1.000000 0.000000 -0.000000</float_array>
+					<technique_common>
+						<accessor source="#SOURCE_MAP_ARRAY_aNSShTXj" count="24" stride="2">
+							<param name="S" type="float" />
+							<param name="T" type="float" />
+						</accessor>
+					</technique_common>
+				</source>
+				<vertices id="VERTEX_SJFrPa1H">
+					<input semantic="POSITION" source="#SOURCE_POS_Lk4Pu1PM" />
+				</vertices>
+				<polylist count="2" material="MATERIAL_pUeed2_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP">
+					<input semantic="VERTEX" source="#VERTEX_SJFrPa1H" offset="0" />
+					<input semantic="NORMAL" source="#SOURCE_NORMAL_TMwjPY5B" offset="0" />
+					<input semantic="TEXCOORD" source="#SOURCE_MAP_aNSShTXj" offset="0" />
+					<vcount>3 3</vcount>
+					<p>0 1 2  0 2 3 </p>
+				</polylist>
+				<polylist count="2" material="MATERIAL_pUeed2_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP">
+					<input semantic="VERTEX" source="#VERTEX_SJFrPa1H" offset="0" />
+					<input semantic="NORMAL" source="#SOURCE_NORMAL_TMwjPY5B" offset="0" />
+					<input semantic="TEXCOORD" source="#SOURCE_MAP_aNSShTXj" offset="0" />
+					<vcount>3 3</vcount>
+					<p>4 5 6  6 5 7 </p>
+				</polylist>
+				<polylist count="2" material="MATERIAL_pUeed2_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP">
+					<input semantic="VERTEX" source="#VERTEX_SJFrPa1H" offset="0" />
+					<input semantic="NORMAL" source="#SOURCE_NORMAL_TMwjPY5B" offset="0" />
+					<input semantic="TEXCOORD" source="#SOURCE_MAP_aNSShTXj" offset="0" />
+					<vcount>3 3</vcount>
+					<p>8 9 10  10 9 11 </p>
+				</polylist>
+				<polylist count="2" material="MATERIAL_pUeed2_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP">
+					<input semantic="VERTEX" source="#VERTEX_SJFrPa1H" offset="0" />
+					<input semantic="NORMAL" source="#SOURCE_NORMAL_TMwjPY5B" offset="0" />
+					<input semantic="TEXCOORD" source="#SOURCE_MAP_aNSShTXj" offset="0" />
+					<vcount>3 3</vcount>
+					<p>12 13 14  14 13 15 </p>
+				</polylist>
+				<polylist count="2" material="MATERIAL_pUeed2_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP">
+					<input semantic="VERTEX" source="#VERTEX_SJFrPa1H" offset="0" />
+					<input semantic="NORMAL" source="#SOURCE_NORMAL_TMwjPY5B" offset="0" />
+					<input semantic="TEXCOORD" source="#SOURCE_MAP_aNSShTXj" offset="0" />
+					<vcount>3 3</vcount>
+					<p>16 17 18  18 17 19 </p>
+				</polylist>
+				<polylist count="2" material="MATERIAL_pUeed2_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP">
+					<input semantic="VERTEX" source="#VERTEX_SJFrPa1H" offset="0" />
+					<input semantic="NORMAL" source="#SOURCE_NORMAL_TMwjPY5B" offset="0" />
+					<input semantic="TEXCOORD" source="#SOURCE_MAP_aNSShTXj" offset="0" />
+					<vcount>3 3</vcount>
+					<p>20 21 22  23 20 22 </p>
+				</polylist>
+			</mesh>
+		</geometry>
+		<geometry id="GEOMETRY_qFK88GBv" name="Primitive">
+			<mesh>
+				<source id="SOURCE_POS_oNidDMOg">
+					<float_array id="SOURCE_POS_ARRAY_oNidDMOg" count="72">-0.500000 -0.500000 0.500000 0.500000 -0.500000 0.500000 0.500000 0.500000 0.500000 -0.500000 0.500000 0.500000 -0.500000 -0.500000 0.500000 -0.500000 -0.500000 -0.500000 0.500000 -0.500000 0.500000 0.500000 -0.500000 -0.500000 0.500000 -0.500000 0.500000 0.500000 -0.500000 -0.500000 0.500000 0.500000 0.500000 0.500000 0.500000 -0.500000 0.500000 0.500000 0.500000 0.500000 0.500000 -0.500000 -0.500000 0.500000 0.500000 -0.500000 0.500000 -0.500000 -0.500000 0.500000 0.500000 -0.500000 0.500000 -0.500000 -0.500000 -0.500000 0.500000 -0.500000 -0.500000 -0.500000 0.500000 0.500000 -0.500000 0.500000 -0.500000 -0.500000 -0.500000 -0.500000 -0.500000 -0.500000 0.500000 -0.500000</float_array>
+					<technique_common>
+						<accessor source="#SOURCE_POS_ARRAY_oNidDMOg" count="24" stride="3">
+							<param name="X" type="float" />
+							<param name="Y" type="float" />
+							<param name="Z" type="float" />
+						</accessor>
+					</technique_common>
+				</source>
+				<source id="SOURCE_NORMAL_IUGJ1uvZ">
+					<float_array id="SOURCE_NORMAL_ARRAY_IUGJ1uvZ" count="72">0.000000 0.000000 1.000000 0.000000 0.000000 1.000000 0.000000 0.000000 1.000000 0.000000 0.000000 1.000000 -0.000000 -1.000000 0.000000 -0.000000 -1.000000 0.000000 -0.000000 -1.000000 0.000000 -0.000000 -1.000000 0.000000 1.000000 -0.000000 0.000000 1.000000 -0.000000 0.000000 1.000000 -0.000000 0.000000 1.000000 -0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 1.000000 0.000000 0.000000 1.000000 0.000000 0.000000 1.000000 0.000000 -1.000000 0.000000 0.000000 -1.000000 0.000000 0.000000 -1.000000 0.000000 0.000000 -1.000000 0.000000 0.000000 -0.000000 -0.000000 -1.000000 -0.000000 -0.000000 -1.000000 -0.000000 -0.000000 -1.000000 -0.000000 -0.000000 -1.000000</float_array>
+					<technique_common>
+						<accessor source="#SOURCE_NORMAL_ARRAY_IUGJ1uvZ" count="24" stride="3">
+							<param name="X" type="float" />
+							<param name="Y" type="float" />
+							<param name="Z" type="float" />
+						</accessor>
+					</technique_common>
+				</source>
+				<source id="SOURCE_MAP_Q3pebCSj">
+					<float_array id="SOURCE_MAP_ARRAY_Q3pebCSj" count="48">-0.000000 0.000000 1.000000 -0.000000 1.000000 1.000000 0.000000 1.000000 0.000000 0.999999 0.000000 0.000000 1.000000 0.999999 1.000000 0.000000 0.000000 0.999999 0.000000 0.000000 1.000000 0.999999 1.000000 0.000000 0.000000 0.999999 0.000000 0.000000 1.000000 0.999999 1.000000 0.000000 0.000000 0.999999 0.000000 0.000000 1.000000 0.999999 1.000000 0.000000 1.000000 0.000000 1.000000 1.000000 -0.000000 1.000000 0.000000 -0.000000</float_array>
+					<technique_common>
+						<accessor source="#SOURCE_MAP_ARRAY_Q3pebCSj" count="24" stride="2">
+							<param name="S" type="float" />
+							<param name="T" type="float" />
+						</accessor>
+					</technique_common>
+				</source>
+				<vertices id="VERTEX_CwLBcHXV">
+					<input semantic="POSITION" source="#SOURCE_POS_oNidDMOg" />
+				</vertices>
+				<polylist count="2" material="MATERIAL_Uxjz9b_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP">
+					<input semantic="VERTEX" source="#VERTEX_CwLBcHXV" offset="0" />
+					<input semantic="NORMAL" source="#SOURCE_NORMAL_IUGJ1uvZ" offset="0" />
+					<input semantic="TEXCOORD" source="#SOURCE_MAP_Q3pebCSj" offset="0" />
+					<vcount>3 3</vcount>
+					<p>0 1 2  0 2 3 </p>
+				</polylist>
+				<polylist count="2" material="MATERIAL_Uxjz9b_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP">
+					<input semantic="VERTEX" source="#VERTEX_CwLBcHXV" offset="0" />
+					<input semantic="NORMAL" source="#SOURCE_NORMAL_IUGJ1uvZ" offset="0" />
+					<input semantic="TEXCOORD" source="#SOURCE_MAP_Q3pebCSj" offset="0" />
+					<vcount>3 3</vcount>
+					<p>4 5 6  6 5 7 </p>
+				</polylist>
+				<polylist count="2" material="MATERIAL_Uxjz9b_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP">
+					<input semantic="VERTEX" source="#VERTEX_CwLBcHXV" offset="0" />
+					<input semantic="NORMAL" source="#SOURCE_NORMAL_IUGJ1uvZ" offset="0" />
+					<input semantic="TEXCOORD" source="#SOURCE_MAP_Q3pebCSj" offset="0" />
+					<vcount>3 3</vcount>
+					<p>8 9 10  10 9 11 </p>
+				</polylist>
+				<polylist count="2" material="MATERIAL_Uxjz9b_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP">
+					<input semantic="VERTEX" source="#VERTEX_CwLBcHXV" offset="0" />
+					<input semantic="NORMAL" source="#SOURCE_NORMAL_IUGJ1uvZ" offset="0" />
+					<input semantic="TEXCOORD" source="#SOURCE_MAP_Q3pebCSj" offset="0" />
+					<vcount>3 3</vcount>
+					<p>12 13 14  14 13 15 </p>
+				</polylist>
+				<polylist count="2" material="MATERIAL_Uxjz9b_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP">
+					<input semantic="VERTEX" source="#VERTEX_CwLBcHXV" offset="0" />
+					<input semantic="NORMAL" source="#SOURCE_NORMAL_IUGJ1uvZ" offset="0" />
+					<input semantic="TEXCOORD" source="#SOURCE_MAP_Q3pebCSj" offset="0" />
+					<vcount>3 3</vcount>
+					<p>16 17 18  18 17 19 </p>
+				</polylist>
+				<polylist count="2" material="MATERIAL_Uxjz9b_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP">
+					<input semantic="VERTEX" source="#VERTEX_CwLBcHXV" offset="0" />
+					<input semantic="NORMAL" source="#SOURCE_NORMAL_IUGJ1uvZ" offset="0" />
+					<input semantic="TEXCOORD" source="#SOURCE_MAP_Q3pebCSj" offset="0" />
+					<vcount>3 3</vcount>
+					<p>20 21 22  23 20 22 </p>
+				</polylist>
+			</mesh>
+		</geometry>
+		<geometry id="GEOMETRY_GnaKt8EU" name="Primitive">
+			<mesh>
+				<source id="SOURCE_POS_t2pchPEi">
+					<float_array id="SOURCE_POS_ARRAY_t2pchPEi" count="72">-0.500000 -0.500000 0.500000 0.500000 -0.500000 0.500000 0.500000 0.500000 0.500000 -0.500000 0.500000 0.500000 -0.500000 -0.500000 0.500000 -0.500000 -0.500000 -0.500000 0.500000 -0.500000 0.500000 0.500000 -0.500000 -0.500000 0.500000 -0.500000 0.500000 0.500000 -0.500000 -0.500000 0.500000 0.500000 0.500000 0.500000 0.500000 -0.500000 0.500000 0.500000 0.500000 0.500000 0.500000 -0.500000 -0.500000 0.500000 0.500000 -0.500000 0.500000 -0.500000 -0.500000 0.500000 0.500000 -0.500000 0.500000 -0.500000 -0.500000 -0.500000 0.500000 -0.500000 -0.500000 -0.500000 0.500000 0.500000 -0.500000 0.500000 -0.500000 -0.500000 -0.500000 -0.500000 -0.500000 -0.500000 0.500000 -0.500000</float_array>
+					<technique_common>
+						<accessor source="#SOURCE_POS_ARRAY_t2pchPEi" count="24" stride="3">
+							<param name="X" type="float" />
+							<param name="Y" type="float" />
+							<param name="Z" type="float" />
+						</accessor>
+					</technique_common>
+				</source>
+				<source id="SOURCE_NORMAL_ZIk1PDcV">
+					<float_array id="SOURCE_NORMAL_ARRAY_ZIk1PDcV" count="72">0.000000 0.000000 1.000000 0.000000 0.000000 1.000000 0.000000 0.000000 1.000000 0.000000 0.000000 1.000000 -0.000000 -1.000000 0.000000 -0.000000 -1.000000 0.000000 -0.000000 -1.000000 0.000000 -0.000000 -1.000000 0.000000 1.000000 -0.000000 0.000000 1.000000 -0.000000 0.000000 1.000000 -0.000000 0.000000 1.000000 -0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 1.000000 0.000000 0.000000 1.000000 0.000000 0.000000 1.000000 0.000000 -1.000000 0.000000 0.000000 -1.000000 0.000000 0.000000 -1.000000 0.000000 0.000000 -1.000000 0.000000 0.000000 -0.000000 -0.000000 -1.000000 -0.000000 -0.000000 -1.000000 -0.000000 -0.000000 -1.000000 -0.000000 -0.000000 -1.000000</float_array>
+					<technique_common>
+						<accessor source="#SOURCE_NORMAL_ARRAY_ZIk1PDcV" count="24" stride="3">
+							<param name="X" type="float" />
+							<param name="Y" type="float" />
+							<param name="Z" type="float" />
+						</accessor>
+					</technique_common>
+				</source>
+				<source id="SOURCE_MAP_Vx8DAUU9">
+					<float_array id="SOURCE_MAP_ARRAY_Vx8DAUU9" count="48">-0.000000 0.000000 1.000000 -0.000000 1.000000 1.000000 0.000000 1.000000 0.000000 0.999999 0.000000 0.000000 1.000000 0.999999 1.000000 0.000000 0.000000 0.999999 0.000000 0.000000 1.000000 0.999999 1.000000 0.000000 0.000000 0.999999 0.000000 0.000000 1.000000 0.999999 1.000000 0.000000 0.000000 0.999999 0.000000 0.000000 1.000000 0.999999 1.000000 0.000000 1.000000 0.000000 1.000000 1.000000 -0.000000 1.000000 0.000000 -0.000000</float_array>
+					<technique_common>
+						<accessor source="#SOURCE_MAP_ARRAY_Vx8DAUU9" count="24" stride="2">
+							<param name="S" type="float" />
+							<param name="T" type="float" />
+						</accessor>
+					</technique_common>
+				</source>
+				<vertices id="VERTEX_sR3blYOC">
+					<input semantic="POSITION" source="#SOURCE_POS_t2pchPEi" />
+				</vertices>
+				<polylist count="2" material="MATERIAL_Swmsad_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP">
+					<input semantic="VERTEX" source="#VERTEX_sR3blYOC" offset="0" />
+					<input semantic="NORMAL" source="#SOURCE_NORMAL_ZIk1PDcV" offset="0" />
+					<input semantic="TEXCOORD" source="#SOURCE_MAP_Vx8DAUU9" offset="0" />
+					<vcount>3 3</vcount>
+					<p>0 1 2  0 2 3 </p>
+				</polylist>
+				<polylist count="2" material="MATERIAL_Swmsad_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP">
+					<input semantic="VERTEX" source="#VERTEX_sR3blYOC" offset="0" />
+					<input semantic="NORMAL" source="#SOURCE_NORMAL_ZIk1PDcV" offset="0" />
+					<input semantic="TEXCOORD" source="#SOURCE_MAP_Vx8DAUU9" offset="0" />
+					<vcount>3 3</vcount>
+					<p>4 5 6  6 5 7 </p>
+				</polylist>
+				<polylist count="2" material="MATERIAL_Swmsad_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP">
+					<input semantic="VERTEX" source="#VERTEX_sR3blYOC" offset="0" />
+					<input semantic="NORMAL" source="#SOURCE_NORMAL_ZIk1PDcV" offset="0" />
+					<input semantic="TEXCOORD" source="#SOURCE_MAP_Vx8DAUU9" offset="0" />
+					<vcount>3 3</vcount>
+					<p>8 9 10  10 9 11 </p>
+				</polylist>
+				<polylist count="2" material="MATERIAL_Swmsad_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP">
+					<input semantic="VERTEX" source="#VERTEX_sR3blYOC" offset="0" />
+					<input semantic="NORMAL" source="#SOURCE_NORMAL_ZIk1PDcV" offset="0" />
+					<input semantic="TEXCOORD" source="#SOURCE_MAP_Vx8DAUU9" offset="0" />
+					<vcount>3 3</vcount>
+					<p>12 13 14  14 13 15 </p>
+				</polylist>
+				<polylist count="2" material="MATERIAL_Swmsad_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP">
+					<input semantic="VERTEX" source="#VERTEX_sR3blYOC" offset="0" />
+					<input semantic="NORMAL" source="#SOURCE_NORMAL_ZIk1PDcV" offset="0" />
+					<input semantic="TEXCOORD" source="#SOURCE_MAP_Vx8DAUU9" offset="0" />
+					<vcount>3 3</vcount>
+					<p>16 17 18  18 17 19 </p>
+				</polylist>
+				<polylist count="2" material="MATERIAL_Swmsad_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP">
+					<input semantic="VERTEX" source="#VERTEX_sR3blYOC" offset="0" />
+					<input semantic="NORMAL" source="#SOURCE_NORMAL_ZIk1PDcV" offset="0" />
+					<input semantic="TEXCOORD" source="#SOURCE_MAP_Vx8DAUU9" offset="0" />
+					<vcount>3 3</vcount>
+					<p>20 21 22  23 20 22 </p>
+				</polylist>
+			</mesh>
+		</geometry>
+		<geometry id="GEOMETRY_lnicO5gb" name="Primitive">
+			<mesh>
+				<source id="SOURCE_POS_LV9jACrG">
+					<float_array id="SOURCE_POS_ARRAY_LV9jACrG" count="72">-0.500000 -0.500000 0.500000 0.500000 -0.500000 0.500000 0.500000 0.500000 0.500000 -0.500000 0.500000 0.500000 -0.500000 -0.500000 0.500000 -0.500000 -0.500000 -0.500000 0.500000 -0.500000 0.500000 0.500000 -0.500000 -0.500000 0.500000 -0.500000 0.500000 0.500000 -0.500000 -0.500000 0.500000 0.500000 0.500000 0.500000 0.500000 -0.500000 0.500000 0.500000 0.500000 0.500000 0.500000 -0.500000 -0.500000 0.500000 0.500000 -0.500000 0.500000 -0.500000 -0.500000 0.500000 0.500000 -0.500000 0.500000 -0.500000 -0.500000 -0.500000 0.500000 -0.500000 -0.500000 -0.500000 0.500000 0.500000 -0.500000 0.500000 -0.500000 -0.500000 -0.500000 -0.500000 -0.500000 -0.500000 0.500000 -0.500000</float_array>
+					<technique_common>
+						<accessor source="#SOURCE_POS_ARRAY_LV9jACrG" count="24" stride="3">
+							<param name="X" type="float" />
+							<param name="Y" type="float" />
+							<param name="Z" type="float" />
+						</accessor>
+					</technique_common>
+				</source>
+				<source id="SOURCE_NORMAL_Hi1v5Lxn">
+					<float_array id="SOURCE_NORMAL_ARRAY_Hi1v5Lxn" count="72">0.000000 0.000000 1.000000 0.000000 0.000000 1.000000 0.000000 0.000000 1.000000 0.000000 0.000000 1.000000 -0.000000 -1.000000 0.000000 -0.000000 -1.000000 0.000000 -0.000000 -1.000000 0.000000 -0.000000 -1.000000 0.000000 1.000000 -0.000000 0.000000 1.000000 -0.000000 0.000000 1.000000 -0.000000 0.000000 1.000000 -0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 1.000000 0.000000 0.000000 1.000000 0.000000 0.000000 1.000000 0.000000 -1.000000 0.000000 0.000000 -1.000000 0.000000 0.000000 -1.000000 0.000000 0.000000 -1.000000 0.000000 0.000000 -0.000000 -0.000000 -1.000000 -0.000000 -0.000000 -1.000000 -0.000000 -0.000000 -1.000000 -0.000000 -0.000000 -1.000000</float_array>
+					<technique_common>
+						<accessor source="#SOURCE_NORMAL_ARRAY_Hi1v5Lxn" count="24" stride="3">
+							<param name="X" type="float" />
+							<param name="Y" type="float" />
+							<param name="Z" type="float" />
+						</accessor>
+					</technique_common>
+				</source>
+				<source id="SOURCE_MAP_xEmhZkyk">
+					<float_array id="SOURCE_MAP_ARRAY_xEmhZkyk" count="48">-0.000000 0.000000 1.000000 -0.000000 1.000000 1.000000 0.000000 1.000000 0.000000 0.999999 0.000000 0.000000 1.000000 0.999999 1.000000 0.000000 0.000000 0.999999 0.000000 0.000000 1.000000 0.999999 1.000000 0.000000 0.000000 0.999999 0.000000 0.000000 1.000000 0.999999 1.000000 0.000000 0.000000 0.999999 0.000000 0.000000 1.000000 0.999999 1.000000 0.000000 1.000000 0.000000 1.000000 1.000000 -0.000000 1.000000 0.000000 -0.000000</float_array>
+					<technique_common>
+						<accessor source="#SOURCE_MAP_ARRAY_xEmhZkyk" count="24" stride="2">
+							<param name="S" type="float" />
+							<param name="T" type="float" />
+						</accessor>
+					</technique_common>
+				</source>
+				<vertices id="VERTEX_UuFvaxDD">
+					<input semantic="POSITION" source="#SOURCE_POS_LV9jACrG" />
+				</vertices>
+				<polylist count="2" material="MATERIAL_qTADYr_lMn+AAAAAAAAAAAAAAAAAABkAGQAAABP">
+					<input semantic="VERTEX" source="#VERTEX_UuFvaxDD" offset="0" />
+					<input semantic="NORMAL" source="#SOURCE_NORMAL_Hi1v5Lxn" offset="0" />
+					<input semantic="TEXCOORD" source="#SOURCE_MAP_xEmhZkyk" offset="0" />
+					<vcount>3 3</vcount>
+					<p>0 1 2  0 2 3 </p>
+				</polylist>
+				<polylist count="2" material="MATERIAL_qTADYr_lMn+AAAAAAAAAAAAAAAAAABkAGQAAABP">
+					<input semantic="VERTEX" source="#VERTEX_UuFvaxDD" offset="0" />
+					<input semantic="NORMAL" source="#SOURCE_NORMAL_Hi1v5Lxn" offset="0" />
+					<input semantic="TEXCOORD" source="#SOURCE_MAP_xEmhZkyk" offset="0" />
+					<vcount>3 3</vcount>
+					<p>4 5 6  6 5 7 </p>
+				</polylist>
+				<polylist count="2" material="MATERIAL_S1JyNe_lMn+AAAAAP8AAAAAAAAAAABkAGQAAABP">
+					<input semantic="VERTEX" source="#VERTEX_UuFvaxDD" offset="0" />
+					<input semantic="NORMAL" source="#SOURCE_NORMAL_Hi1v5Lxn" offset="0" />
+					<input semantic="TEXCOORD" source="#SOURCE_MAP_xEmhZkyk" offset="0" />
+					<vcount>3 3</vcount>
+					<p>8 9 10  10 9 11 </p>
+				</polylist>
+				<polylist count="2" material="MATERIAL_qTADYr_lMn+AAAAAAAAAAAAAAAAAABkAGQAAABP">
+					<input semantic="VERTEX" source="#VERTEX_UuFvaxDD" offset="0" />
+					<input semantic="NORMAL" source="#SOURCE_NORMAL_Hi1v5Lxn" offset="0" />
+					<input semantic="TEXCOORD" source="#SOURCE_MAP_xEmhZkyk" offset="0" />
+					<vcount>3 3</vcount>
+					<p>12 13 14  14 13 15 </p>
+				</polylist>
+				<polylist count="2" material="MATERIAL_qTADYr_lMn+AAAAAAAAAAAAAAAAAABkAGQAAABP">
+					<input semantic="VERTEX" source="#VERTEX_UuFvaxDD" offset="0" />
+					<input semantic="NORMAL" source="#SOURCE_NORMAL_Hi1v5Lxn" offset="0" />
+					<input semantic="TEXCOORD" source="#SOURCE_MAP_xEmhZkyk" offset="0" />
+					<vcount>3 3</vcount>
+					<p>16 17 18  18 17 19 </p>
+				</polylist>
+				<polylist count="2" material="MATERIAL_qTADYr_lMn+AAAAAAAAAAAAAAAAAABkAGQAAABP">
+					<input semantic="VERTEX" source="#VERTEX_UuFvaxDD" offset="0" />
+					<input semantic="NORMAL" source="#SOURCE_NORMAL_Hi1v5Lxn" offset="0" />
+					<input semantic="TEXCOORD" source="#SOURCE_MAP_xEmhZkyk" offset="0" />
+					<vcount>3 3</vcount>
+					<p>20 21 22  23 20 22 </p>
+				</polylist>
+			</mesh>
+		</geometry>
+		<geometry id="GEOMETRY_u0Z0aFZX" name="Bookshelf">
+			<mesh>
+				<source id="SOURCE_POS_OOp4dvMR">
+					<float_array id="SOURCE_POS_ARRAY_OOp4dvMR" count="72">-0.500000 -0.500000 0.500000 0.500000 -0.500000 0.500000 0.500000 0.500000 0.500000 -0.500000 0.500000 0.500000 -0.500000 -0.500000 0.500000 -0.500000 -0.500000 -0.500000 0.500000 -0.500000 0.500000 0.500000 -0.500000 -0.500000 0.500000 -0.500000 0.500000 0.500000 -0.500000 -0.500000 0.500000 0.500000 0.500000 0.500000 0.500000 -0.500000 0.500000 0.500000 0.500000 0.500000 0.500000 -0.500000 -0.500000 0.500000 0.500000 -0.500000 0.500000 -0.500000 -0.500000 0.500000 0.500000 -0.500000 0.500000 -0.500000 -0.500000 -0.500000 0.500000 -0.500000 -0.500000 -0.500000 0.500000 0.500000 -0.500000 0.500000 -0.500000 -0.500000 -0.500000 -0.500000 -0.500000 -0.500000 0.500000 -0.500000</float_array>
+					<technique_common>
+						<accessor source="#SOURCE_POS_ARRAY_OOp4dvMR" count="24" stride="3">
+							<param name="X" type="float" />
+							<param name="Y" type="float" />
+							<param name="Z" type="float" />
+						</accessor>
+					</technique_common>
+				</source>
+				<source id="SOURCE_NORMAL_JgzSikZR">
+					<float_array id="SOURCE_NORMAL_ARRAY_JgzSikZR" count="72">0.000000 0.000000 1.000000 0.000000 0.000000 1.000000 0.000000 0.000000 1.000000 0.000000 0.000000 1.000000 -0.000000 -1.000000 0.000000 -0.000000 -1.000000 0.000000 -0.000000 -1.000000 0.000000 -0.000000 -1.000000 0.000000 1.000000 -0.000000 0.000000 1.000000 -0.000000 0.000000 1.000000 -0.000000 0.000000 1.000000 -0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 1.000000 0.000000 0.000000 1.000000 0.000000 0.000000 1.000000 0.000000 -1.000000 0.000000 0.000000 -1.000000 0.000000 0.000000 -1.000000 0.000000 0.000000 -1.000000 0.000000 0.000000 -0.000000 -0.000000 -1.000000 -0.000000 -0.000000 -1.000000 -0.000000 -0.000000 -1.000000 -0.000000 -0.000000 -1.000000</float_array>
+					<technique_common>
+						<accessor source="#SOURCE_NORMAL_ARRAY_JgzSikZR" count="24" stride="3">
+							<param name="X" type="float" />
+							<param name="Y" type="float" />
+							<param name="Z" type="float" />
+						</accessor>
+					</technique_common>
+				</source>
+				<source id="SOURCE_MAP_gpedtvdY">
+					<float_array id="SOURCE_MAP_ARRAY_gpedtvdY" count="48">-0.000000 0.000000 1.000000 -0.000000 1.000000 1.000000 0.000000 1.000000 0.000000 0.999999 0.000000 0.000000 1.000000 0.999999 1.000000 0.000000 0.000000 0.999999 0.000000 0.000000 1.000000 0.999999 1.000000 0.000000 0.000000 0.999999 0.000000 0.000000 1.000000 0.999999 1.000000 0.000000 0.000000 0.999999 0.000000 0.000000 1.000000 0.999999 1.000000 0.000000 1.000000 0.000000 1.000000 1.000000 -0.000000 1.000000 0.000000 -0.000000</float_array>
+					<technique_common>
+						<accessor source="#SOURCE_MAP_ARRAY_gpedtvdY" count="24" stride="2">
+							<param name="S" type="float" />
+							<param name="T" type="float" />
+						</accessor>
+					</technique_common>
+				</source>
+				<vertices id="VERTEX_ctDsRHTd">
+					<input semantic="POSITION" source="#SOURCE_POS_OOp4dvMR" />
+				</vertices>
+				<polylist count="2" material="MATERIAL_PnqmVJ_lMn+AAAAAAAAAAAAAAAAAABkAGQAAABP">
+					<input semantic="VERTEX" source="#VERTEX_ctDsRHTd" offset="0" />
+					<input semantic="NORMAL" source="#SOURCE_NORMAL_JgzSikZR" offset="0" />
+					<input semantic="TEXCOORD" source="#SOURCE_MAP_gpedtvdY" offset="0" />
+					<vcount>3 3</vcount>
+					<p>0 1 2  0 2 3 </p>
+				</polylist>
+				<polylist count="2" material="MATERIAL_PnqmVJ_lMn+AAAAAAAAAAAAAAAAAABkAGQAAABP">
+					<input semantic="VERTEX" source="#VERTEX_ctDsRHTd" offset="0" />
+					<input semantic="NORMAL" source="#SOURCE_NORMAL_JgzSikZR" offset="0" />
+					<input semantic="TEXCOORD" source="#SOURCE_MAP_gpedtvdY" offset="0" />
+					<vcount>3 3</vcount>
+					<p>4 5 6  6 5 7 </p>
+				</polylist>
+				<polylist count="2" material="MATERIAL_IlSIJ0_lMn+AAAAAP8AAAAAAAAAAABkAGQAAABP">
+					<input semantic="VERTEX" source="#VERTEX_ctDsRHTd" offset="0" />
+					<input semantic="NORMAL" source="#SOURCE_NORMAL_JgzSikZR" offset="0" />
+					<input semantic="TEXCOORD" source="#SOURCE_MAP_gpedtvdY" offset="0" />
+					<vcount>3 3</vcount>
+					<p>8 9 10  10 9 11 </p>
+				</polylist>
+				<polylist count="2" material="MATERIAL_PnqmVJ_lMn+AAAAAAAAAAAAAAAAAABkAGQAAABP">
+					<input semantic="VERTEX" source="#VERTEX_ctDsRHTd" offset="0" />
+					<input semantic="NORMAL" source="#SOURCE_NORMAL_JgzSikZR" offset="0" />
+					<input semantic="TEXCOORD" source="#SOURCE_MAP_gpedtvdY" offset="0" />
+					<vcount>3 3</vcount>
+					<p>12 13 14  14 13 15 </p>
+				</polylist>
+				<polylist count="2" material="MATERIAL_PnqmVJ_lMn+AAAAAAAAAAAAAAAAAABkAGQAAABP">
+					<input semantic="VERTEX" source="#VERTEX_ctDsRHTd" offset="0" />
+					<input semantic="NORMAL" source="#SOURCE_NORMAL_JgzSikZR" offset="0" />
+					<input semantic="TEXCOORD" source="#SOURCE_MAP_gpedtvdY" offset="0" />
+					<vcount>3 3</vcount>
+					<p>16 17 18  18 17 19 </p>
+				</polylist>
+				<polylist count="2" material="MATERIAL_PnqmVJ_lMn+AAAAAAAAAAAAAAAAAABkAGQAAABP">
+					<input semantic="VERTEX" source="#VERTEX_ctDsRHTd" offset="0" />
+					<input semantic="NORMAL" source="#SOURCE_NORMAL_JgzSikZR" offset="0" />
+					<input semantic="TEXCOORD" source="#SOURCE_MAP_gpedtvdY" offset="0" />
+					<vcount>3 3</vcount>
+					<p>20 21 22  23 20 22 </p>
+				</polylist>
+			</mesh>
+		</geometry>
+		<geometry id="GEOMETRY_jnfGAQhK" name="Primitive">
+			<mesh>
+				<source id="SOURCE_POS_ZjRKNC5a">
+					<float_array id="SOURCE_POS_ARRAY_ZjRKNC5a" count="72">-0.500000 -0.500000 0.500000 0.500000 -0.500000 0.500000 0.500000 0.500000 0.500000 -0.500000 0.500000 0.500000 -0.500000 -0.500000 0.500000 -0.500000 -0.500000 -0.500000 0.500000 -0.500000 0.500000 0.500000 -0.500000 -0.500000 0.500000 -0.500000 0.500000 0.500000 -0.500000 -0.500000 0.500000 0.500000 0.500000 0.500000 0.500000 -0.500000 0.500000 0.500000 0.500000 0.500000 0.500000 -0.500000 -0.500000 0.500000 0.500000 -0.500000 0.500000 -0.500000 -0.500000 0.500000 0.500000 -0.500000 0.500000 -0.500000 -0.500000 -0.500000 0.500000 -0.500000 -0.500000 -0.500000 0.500000 0.500000 -0.500000 0.500000 -0.500000 -0.500000 -0.500000 -0.500000 -0.500000 -0.500000 0.500000 -0.500000</float_array>
+					<technique_common>
+						<accessor source="#SOURCE_POS_ARRAY_ZjRKNC5a" count="24" stride="3">
+							<param name="X" type="float" />
+							<param name="Y" type="float" />
+							<param name="Z" type="float" />
+						</accessor>
+					</technique_common>
+				</source>
+				<source id="SOURCE_NORMAL_ug1z0s6n">
+					<float_array id="SOURCE_NORMAL_ARRAY_ug1z0s6n" count="72">0.000000 0.000000 1.000000 0.000000 0.000000 1.000000 0.000000 0.000000 1.000000 0.000000 0.000000 1.000000 -0.000000 -1.000000 0.000000 -0.000000 -1.000000 0.000000 -0.000000 -1.000000 0.000000 -0.000000 -1.000000 0.000000 1.000000 -0.000000 0.000000 1.000000 -0.000000 0.000000 1.000000 -0.000000 0.000000 1.000000 -0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 1.000000 0.000000 0.000000 1.000000 0.000000 0.000000 1.000000 0.000000 -1.000000 0.000000 0.000000 -1.000000 0.000000 0.000000 -1.000000 0.000000 0.000000 -1.000000 0.000000 0.000000 -0.000000 -0.000000 -1.000000 -0.000000 -0.000000 -1.000000 -0.000000 -0.000000 -1.000000 -0.000000 -0.000000 -1.000000</float_array>
+					<technique_common>
+						<accessor source="#SOURCE_NORMAL_ARRAY_ug1z0s6n" count="24" stride="3">
+							<param name="X" type="float" />
+							<param name="Y" type="float" />
+							<param name="Z" type="float" />
+						</accessor>
+					</technique_common>
+				</source>
+				<source id="SOURCE_MAP_yDR1n3G9">
+					<float_array id="SOURCE_MAP_ARRAY_yDR1n3G9" count="48">-0.000000 0.000000 1.000000 -0.000000 1.000000 1.000000 0.000000 1.000000 0.000000 0.999999 0.000000 0.000000 1.000000 0.999999 1.000000 0.000000 0.000000 0.999999 0.000000 0.000000 1.000000 0.999999 1.000000 0.000000 0.000000 0.999999 0.000000 0.000000 1.000000 0.999999 1.000000 0.000000 0.000000 0.999999 0.000000 0.000000 1.000000 0.999999 1.000000 0.000000 1.000000 0.000000 1.000000 1.000000 -0.000000 1.000000 0.000000 -0.000000</float_array>
+					<technique_common>
+						<accessor source="#SOURCE_MAP_ARRAY_yDR1n3G9" count="24" stride="2">
+							<param name="S" type="float" />
+							<param name="T" type="float" />
+						</accessor>
+					</technique_common>
+				</source>
+				<vertices id="VERTEX_Dvcdzqdz">
+					<input semantic="POSITION" source="#SOURCE_POS_ZjRKNC5a" />
+				</vertices>
+				<polylist count="2" material="MATERIAL_fA8uZn_lMn+AAAAAAAAAAAAAAAAAABkAGQAAABP">
+					<input semantic="VERTEX" source="#VERTEX_Dvcdzqdz" offset="0" />
+					<input semantic="NORMAL" source="#SOURCE_NORMAL_ug1z0s6n" offset="0" />
+					<input semantic="TEXCOORD" source="#SOURCE_MAP_yDR1n3G9" offset="0" />
+					<vcount>3 3</vcount>
+					<p>0 1 2  0 2 3 </p>
+				</polylist>
+				<polylist count="2" material="MATERIAL_fA8uZn_lMn+AAAAAAAAAAAAAAAAAABkAGQAAABP">
+					<input semantic="VERTEX" source="#VERTEX_Dvcdzqdz" offset="0" />
+					<input semantic="NORMAL" source="#SOURCE_NORMAL_ug1z0s6n" offset="0" />
+					<input semantic="TEXCOORD" source="#SOURCE_MAP_yDR1n3G9" offset="0" />
+					<vcount>3 3</vcount>
+					<p>4 5 6  6 5 7 </p>
+				</polylist>
+				<polylist count="2" material="MATERIAL_UlXMM8_lMn+AAAAAP8AAAAAAAAAAABkAGQAAABP">
+					<input semantic="VERTEX" source="#VERTEX_Dvcdzqdz" offset="0" />
+					<input semantic="NORMAL" source="#SOURCE_NORMAL_ug1z0s6n" offset="0" />
+					<input semantic="TEXCOORD" source="#SOURCE_MAP_yDR1n3G9" offset="0" />
+					<vcount>3 3</vcount>
+					<p>8 9 10  10 9 11 </p>
+				</polylist>
+				<polylist count="2" material="MATERIAL_fA8uZn_lMn+AAAAAAAAAAAAAAAAAABkAGQAAABP">
+					<input semantic="VERTEX" source="#VERTEX_Dvcdzqdz" offset="0" />
+					<input semantic="NORMAL" source="#SOURCE_NORMAL_ug1z0s6n" offset="0" />
+					<input semantic="TEXCOORD" source="#SOURCE_MAP_yDR1n3G9" offset="0" />
+					<vcount>3 3</vcount>
+					<p>12 13 14  14 13 15 </p>
+				</polylist>
+				<polylist count="2" material="MATERIAL_fA8uZn_lMn+AAAAAAAAAAAAAAAAAABkAGQAAABP">
+					<input semantic="VERTEX" source="#VERTEX_Dvcdzqdz" offset="0" />
+					<input semantic="NORMAL" source="#SOURCE_NORMAL_ug1z0s6n" offset="0" />
+					<input semantic="TEXCOORD" source="#SOURCE_MAP_yDR1n3G9" offset="0" />
+					<vcount>3 3</vcount>
+					<p>16 17 18  18 17 19 </p>
+				</polylist>
+				<polylist count="2" material="MATERIAL_fA8uZn_lMn+AAAAAAAAAAAAAAAAAABkAGQAAABP">
+					<input semantic="VERTEX" source="#VERTEX_Dvcdzqdz" offset="0" />
+					<input semantic="NORMAL" source="#SOURCE_NORMAL_ug1z0s6n" offset="0" />
+					<input semantic="TEXCOORD" source="#SOURCE_MAP_yDR1n3G9" offset="0" />
+					<vcount>3 3</vcount>
+					<p>20 21 22  23 20 22 </p>
+				</polylist>
+			</mesh>
+		</geometry>
+	</library_geometries>
+	<library_effects>
+		<effect id="MATERIAL_io74so_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP_URL">
+			<profile_COMMON>
+				<newparam sid="00000000-0000-1111-9999-000000000005_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP_tga-YpykW-surface">
+					<surface type="2D">
+						<init_from>00000000-0000-1111-9999-000000000005_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP_tga</init_from>
+					</surface>
+				</newparam>
+				<newparam sid="00000000-0000-1111-9999-000000000005_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP_tga-YpykW-sampler">
+					<sampler2D>
+						<source>00000000-0000-1111-9999-000000000005_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP_tga-YpykW-surface</source>
+					</sampler2D>
+				</newparam>
+				<technique sid="common">
+					<phong>
+						<diffuse>
+							<texture texture="00000000-0000-1111-9999-000000000005_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP_tga-YpykW-sampler" texcoord="00000000-0000-1111-9999-000000000005_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP_tga" />
+						</diffuse>
+					</phong>
+				</technique>
+			</profile_COMMON>
+		</effect>
+		<effect id="MATERIAL_yjiPij_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP_URL">
+			<profile_COMMON>
+				<newparam sid="00000000-0000-1111-9999-000000000005_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP_tga-MAAQY-surface">
+					<surface type="2D">
+						<init_from>00000000-0000-1111-9999-000000000005_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP_tga</init_from>
+					</surface>
+				</newparam>
+				<newparam sid="00000000-0000-1111-9999-000000000005_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP_tga-MAAQY-sampler">
+					<sampler2D>
+						<source>00000000-0000-1111-9999-000000000005_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP_tga-MAAQY-surface</source>
+					</sampler2D>
+				</newparam>
+				<technique sid="common">
+					<phong>
+						<diffuse>
+							<texture texture="00000000-0000-1111-9999-000000000005_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP_tga-MAAQY-sampler" texcoord="00000000-0000-1111-9999-000000000005_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP_tga" />
+						</diffuse>
+					</phong>
+				</technique>
+			</profile_COMMON>
+		</effect>
+		<effect id="MATERIAL_pUeed2_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP_URL">
+			<profile_COMMON>
+				<newparam sid="00000000-0000-1111-9999-000000000005_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP_tga-HLSOv-surface">
+					<surface type="2D">
+						<init_from>00000000-0000-1111-9999-000000000005_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP_tga</init_from>
+					</surface>
+				</newparam>
+				<newparam sid="00000000-0000-1111-9999-000000000005_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP_tga-HLSOv-sampler">
+					<sampler2D>
+						<source>00000000-0000-1111-9999-000000000005_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP_tga-HLSOv-surface</source>
+					</sampler2D>
+				</newparam>
+				<technique sid="common">
+					<phong>
+						<diffuse>
+							<texture texture="00000000-0000-1111-9999-000000000005_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP_tga-HLSOv-sampler" texcoord="00000000-0000-1111-9999-000000000005_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP_tga" />
+						</diffuse>
+					</phong>
+				</technique>
+			</profile_COMMON>
+		</effect>
+		<effect id="MATERIAL_Uxjz9b_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP_URL">
+			<profile_COMMON>
+				<newparam sid="00000000-0000-1111-9999-000000000005_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP_tga-3Cxap-surface">
+					<surface type="2D">
+						<init_from>00000000-0000-1111-9999-000000000005_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP_tga</init_from>
+					</surface>
+				</newparam>
+				<newparam sid="00000000-0000-1111-9999-000000000005_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP_tga-3Cxap-sampler">
+					<sampler2D>
+						<source>00000000-0000-1111-9999-000000000005_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP_tga-3Cxap-surface</source>
+					</sampler2D>
+				</newparam>
+				<technique sid="common">
+					<phong>
+						<diffuse>
+							<texture texture="00000000-0000-1111-9999-000000000005_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP_tga-3Cxap-sampler" texcoord="00000000-0000-1111-9999-000000000005_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP_tga" />
+						</diffuse>
+					</phong>
+				</technique>
+			</profile_COMMON>
+		</effect>
+		<effect id="MATERIAL_Swmsad_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP_URL">
+			<profile_COMMON>
+				<newparam sid="00000000-0000-1111-9999-000000000005_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP_tga-4I05T-surface">
+					<surface type="2D">
+						<init_from>00000000-0000-1111-9999-000000000005_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP_tga</init_from>
+					</surface>
+				</newparam>
+				<newparam sid="00000000-0000-1111-9999-000000000005_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP_tga-4I05T-sampler">
+					<sampler2D>
+						<source>00000000-0000-1111-9999-000000000005_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP_tga-4I05T-surface</source>
+					</sampler2D>
+				</newparam>
+				<technique sid="common">
+					<phong>
+						<diffuse>
+							<texture texture="00000000-0000-1111-9999-000000000005_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP_tga-4I05T-sampler" texcoord="00000000-0000-1111-9999-000000000005_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP_tga" />
+						</diffuse>
+					</phong>
+				</technique>
+			</profile_COMMON>
+		</effect>
+		<effect id="MATERIAL_qTADYr_lMn+AAAAAAAAAAAAAAAAAABkAGQAAABP_URL">
+			<profile_COMMON>
+				<technique sid="common">
+					<phong>
+						<diffuse>
+							<color sid="diffuse">0.415686 0.207843 0.000100 1.000000</color>
+						</diffuse>
+					</phong>
+				</technique>
+			</profile_COMMON>
+		</effect>
+		<effect id="MATERIAL_S1JyNe_lMn+AAAAAP8AAAAAAAAAAABkAGQAAABP_URL">
+			<profile_COMMON>
+				<newparam sid="80a4ba2b-b087-42b6-89d2-2034d7e02b68_lMn+AAAAAP8AAAAAAAAAAABkAGQAAABP_tga-q1IIB-surface">
+					<surface type="2D">
+						<init_from>80a4ba2b-b087-42b6-89d2-2034d7e02b68_lMn+AAAAAP8AAAAAAAAAAABkAGQAAABP_tga</init_from>
+					</surface>
+				</newparam>
+				<newparam sid="80a4ba2b-b087-42b6-89d2-2034d7e02b68_lMn+AAAAAP8AAAAAAAAAAABkAGQAAABP_tga-q1IIB-sampler">
+					<sampler2D>
+						<source>80a4ba2b-b087-42b6-89d2-2034d7e02b68_lMn+AAAAAP8AAAAAAAAAAABkAGQAAABP_tga-q1IIB-surface</source>
+					</sampler2D>
+				</newparam>
+				<technique sid="common">
+					<phong>
+						<ambient>
+							<color>1.000000 1.000000 1.000000 1.0</color>
+						</ambient>
+						<diffuse>
+							<texture texture="80a4ba2b-b087-42b6-89d2-2034d7e02b68_lMn+AAAAAP8AAAAAAAAAAABkAGQAAABP_tga-q1IIB-sampler" texcoord="80a4ba2b-b087-42b6-89d2-2034d7e02b68_lMn+AAAAAP8AAAAAAAAAAABkAGQAAABP_tga" />
+						</diffuse>
+						<diffuse>
+							<color sid="diffuse">0.415686 0.207843 0.000100 1.000000</color>
+						</diffuse>
+					</phong>
+				</technique>
+			</profile_COMMON>
+		</effect>
+		<effect id="MATERIAL_PnqmVJ_lMn+AAAAAAAAAAAAAAAAAABkAGQAAABP_URL">
+			<profile_COMMON>
+				<technique sid="common">
+					<phong>
+						<diffuse>
+							<color sid="diffuse">0.415686 0.207843 0.000100 1.000000</color>
+						</diffuse>
+					</phong>
+				</technique>
+			</profile_COMMON>
+		</effect>
+		<effect id="MATERIAL_IlSIJ0_lMn+AAAAAP8AAAAAAAAAAABkAGQAAABP_URL">
+			<profile_COMMON>
+				<newparam sid="80a4ba2b-b087-42b6-89d2-2034d7e02b68_lMn+AAAAAP8AAAAAAAAAAABkAGQAAABP_tga-BDDd8-surface">
+					<surface type="2D">
+						<init_from>80a4ba2b-b087-42b6-89d2-2034d7e02b68_lMn+AAAAAP8AAAAAAAAAAABkAGQAAABP_tga</init_from>
+					</surface>
+				</newparam>
+				<newparam sid="80a4ba2b-b087-42b6-89d2-2034d7e02b68_lMn+AAAAAP8AAAAAAAAAAABkAGQAAABP_tga-BDDd8-sampler">
+					<sampler2D>
+						<source>80a4ba2b-b087-42b6-89d2-2034d7e02b68_lMn+AAAAAP8AAAAAAAAAAABkAGQAAABP_tga-BDDd8-surface</source>
+					</sampler2D>
+				</newparam>
+				<technique sid="common">
+					<phong>
+						<ambient>
+							<color>1.000000 1.000000 1.000000 1.0</color>
+						</ambient>
+						<diffuse>
+							<texture texture="80a4ba2b-b087-42b6-89d2-2034d7e02b68_lMn+AAAAAP8AAAAAAAAAAABkAGQAAABP_tga-BDDd8-sampler" texcoord="80a4ba2b-b087-42b6-89d2-2034d7e02b68_lMn+AAAAAP8AAAAAAAAAAABkAGQAAABP_tga" />
+						</diffuse>
+						<diffuse>
+							<color sid="diffuse">0.415686 0.207843 0.000100 1.000000</color>
+						</diffuse>
+					</phong>
+				</technique>
+			</profile_COMMON>
+		</effect>
+		<effect id="MATERIAL_fA8uZn_lMn+AAAAAAAAAAAAAAAAAABkAGQAAABP_URL">
+			<profile_COMMON>
+				<technique sid="common">
+					<phong>
+						<diffuse>
+							<color sid="diffuse">0.415686 0.207843 0.000100 1.000000</color>
+						</diffuse>
+					</phong>
+				</technique>
+			</profile_COMMON>
+		</effect>
+		<effect id="MATERIAL_UlXMM8_lMn+AAAAAP8AAAAAAAAAAABkAGQAAABP_URL">
+			<profile_COMMON>
+				<newparam sid="80a4ba2b-b087-42b6-89d2-2034d7e02b68_lMn+AAAAAP8AAAAAAAAAAABkAGQAAABP_tga-6yGRW-surface">
+					<surface type="2D">
+						<init_from>80a4ba2b-b087-42b6-89d2-2034d7e02b68_lMn+AAAAAP8AAAAAAAAAAABkAGQAAABP_tga</init_from>
+					</surface>
+				</newparam>
+				<newparam sid="80a4ba2b-b087-42b6-89d2-2034d7e02b68_lMn+AAAAAP8AAAAAAAAAAABkAGQAAABP_tga-6yGRW-sampler">
+					<sampler2D>
+						<source>80a4ba2b-b087-42b6-89d2-2034d7e02b68_lMn+AAAAAP8AAAAAAAAAAABkAGQAAABP_tga-6yGRW-surface</source>
+					</sampler2D>
+				</newparam>
+				<technique sid="common">
+					<phong>
+						<ambient>
+							<color>1.000000 1.000000 1.000000 1.0</color>
+						</ambient>
+						<diffuse>
+							<texture texture="80a4ba2b-b087-42b6-89d2-2034d7e02b68_lMn+AAAAAP8AAAAAAAAAAABkAGQAAABP_tga-6yGRW-sampler" texcoord="80a4ba2b-b087-42b6-89d2-2034d7e02b68_lMn+AAAAAP8AAAAAAAAAAABkAGQAAABP_tga" />
+						</diffuse>
+						<diffuse>
+							<color sid="diffuse">0.415686 0.207843 0.000100 1.000000</color>
+						</diffuse>
+					</phong>
+				</technique>
+			</profile_COMMON>
+		</effect>
+	</library_effects>
+	<library_physics_models>
+		<physics_model id="Physics_Model" name="Physics_Model">
+			<rigid_body sid="NODE_oKtcgpmr" name="Bookshelf">
+				<technique_common>
+					<dynamic>false</dynamic>
+					<mass>0</mass>
+					<shape>
+						<instance_geometry url="#GEOMETRY_M1E9nQmI" />
+					</shape>
+				</technique_common>
+			</rigid_body>
+			<rigid_body sid="NODE_9YVW1lK8" name="Primitive">
+				<technique_common>
+					<dynamic>false</dynamic>
+					<mass>0</mass>
+					<shape>
+						<instance_geometry url="#GEOMETRY_yt7cx0Zd" />
+					</shape>
+				</technique_common>
+			</rigid_body>
+			<rigid_body sid="NODE_8m3EKtGZ" name="Primitive">
+				<technique_common>
+					<dynamic>false</dynamic>
+					<mass>0</mass>
+					<shape>
+						<instance_geometry url="#GEOMETRY_3qtC342j" />
+					</shape>
+				</technique_common>
+			</rigid_body>
+			<rigid_body sid="NODE_tDcVDhL8" name="Primitive">
+				<technique_common>
+					<dynamic>false</dynamic>
+					<mass>0</mass>
+					<shape>
+						<instance_geometry url="#GEOMETRY_qFK88GBv" />
+					</shape>
+				</technique_common>
+			</rigid_body>
+			<rigid_body sid="NODE_ZDLGes4B" name="Primitive">
+				<technique_common>
+					<dynamic>false</dynamic>
+					<mass>0</mass>
+					<shape>
+						<instance_geometry url="#GEOMETRY_GnaKt8EU" />
+					</shape>
+				</technique_common>
+			</rigid_body>
+			<rigid_body sid="NODE_xZHf7OOE" name="Primitive">
+				<technique_common>
+					<dynamic>false</dynamic>
+					<mass>0</mass>
+					<shape>
+						<instance_geometry url="#GEOMETRY_lnicO5gb" />
+					</shape>
+				</technique_common>
+			</rigid_body>
+			<rigid_body sid="NODE_gVSLEQD2" name="Bookshelf">
+				<technique_common>
+					<dynamic>false</dynamic>
+					<mass>0</mass>
+					<shape>
+						<instance_geometry url="#GEOMETRY_u0Z0aFZX" />
+					</shape>
+				</technique_common>
+			</rigid_body>
+			<rigid_body sid="NODE_I4KINJoO" name="Primitive">
+				<technique_common>
+					<dynamic>false</dynamic>
+					<mass>0</mass>
+					<shape>
+						<instance_geometry url="#GEOMETRY_jnfGAQhK" />
+					</shape>
+				</technique_common>
+			</rigid_body>
+		</physics_model>
+	</library_physics_models>
+	<library_physics_scenes>
+		<physics_scene id="Physics_Scene" name="Physics_Scene">
+			<instance_physics_model url="#Physics_Model">
+				<instance_rigid_body body="NODE_oKtcgpmr" target="#NODE_oKtcgpmr" />
+				<instance_rigid_body body="NODE_9YVW1lK8" target="#NODE_9YVW1lK8" />
+				<instance_rigid_body body="NODE_8m3EKtGZ" target="#NODE_8m3EKtGZ" />
+				<instance_rigid_body body="NODE_tDcVDhL8" target="#NODE_tDcVDhL8" />
+				<instance_rigid_body body="NODE_ZDLGes4B" target="#NODE_ZDLGes4B" />
+				<instance_rigid_body body="NODE_xZHf7OOE" target="#NODE_xZHf7OOE" />
+				<instance_rigid_body body="NODE_gVSLEQD2" target="#NODE_gVSLEQD2" />
+				<instance_rigid_body body="NODE_I4KINJoO" target="#NODE_I4KINJoO" />
+			</instance_physics_model>
+		</physics_scene>
+	</library_physics_scenes>
+	<library_visual_scenes>
+		<visual_scene id="Scene" name="Scene">
+			<node id="NODE_oKtcgpmr" name="Bookshelf" type="NODE">
+				<matrix>-0.104507 -0.994524 0.000000 -30.944283 0.994524 -0.104507 0.000000 -9.409103 0.000000 0.000000 1.000000 1.826639 0.000000 0.000000 0.000000 1.000000</matrix>
+				<scale sid="scale">1.285126 0.338191 1.592760</scale>
+				<instance_geometry url="#GEOMETRY_M1E9nQmI">
+					<bind_material>
+						<technique_common>
+							<instance_material symbol="MATERIAL_io74so_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP" target="#MATERIAL_io74so_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP" />
+						</technique_common>
+					</bind_material>
+				</instance_geometry>
+			</node>
+			<node id="NODE_9YVW1lK8" name="Primitive" type="NODE">
+				<matrix>0.994524 -0.104507 0.000000 -30.946228 0.104507 0.994524 0.000000 -9.405617 0.000000 0.000000 1.000000 1.157940 0.000000 0.000000 0.000000 1.000000</matrix>
+				<scale sid="scale">0.338191 1.285126 0.027055</scale>
+				<instance_geometry url="#GEOMETRY_yt7cx0Zd">
+					<bind_material>
+						<technique_common>
+							<instance_material symbol="MATERIAL_yjiPij_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP" target="#MATERIAL_yjiPij_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP" />
+						</technique_common>
+					</bind_material>
+				</instance_geometry>
+			</node>
+			<node id="NODE_8m3EKtGZ" name="Primitive" type="NODE">
+				<matrix>0.994524 -0.104507 0.000000 -30.945267 0.104507 0.994524 0.000000 -9.414764 0.000000 0.000000 1.000000 1.653225 0.000000 0.000000 0.000000 1.000000</matrix>
+				<scale sid="scale">0.338191 1.255130 0.027055</scale>
+				<instance_geometry url="#GEOMETRY_3qtC342j">
+					<bind_material>
+						<technique_common>
+							<instance_material symbol="MATERIAL_pUeed2_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP" target="#MATERIAL_pUeed2_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP" />
+						</technique_common>
+					</bind_material>
+				</instance_geometry>
+			</node>
+			<node id="NODE_tDcVDhL8" name="Primitive" type="NODE">
+				<matrix>0.994524 -0.104507 0.000000 -30.944824 0.104507 0.994524 0.000000 -9.418983 0.000000 0.000000 1.000000 2.121191 0.000000 0.000000 0.000000 1.000000</matrix>
+				<scale sid="scale">0.338191 1.215130 0.027055</scale>
+				<instance_geometry url="#GEOMETRY_qFK88GBv">
+					<bind_material>
+						<technique_common>
+							<instance_material symbol="MATERIAL_Uxjz9b_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP" target="#MATERIAL_Uxjz9b_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP" />
+						</technique_common>
+					</bind_material>
+				</instance_geometry>
+			</node>
+			<node id="NODE_ZDLGes4B" name="Primitive" type="NODE">
+				<matrix>0.994524 -0.104507 0.000000 -30.945671 0.104507 0.994524 0.000000 -9.410934 0.000000 0.000000 1.000000 2.630495 0.000000 0.000000 0.000000 1.000000</matrix>
+				<scale sid="scale">0.338191 1.285126 0.027055</scale>
+				<instance_geometry url="#GEOMETRY_GnaKt8EU">
+					<bind_material>
+						<technique_common>
+							<instance_material symbol="MATERIAL_Swmsad_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP" target="#MATERIAL_Swmsad_AAAAAAAAAAAAAAAAAAAAAABkAGQAAABP" />
+						</technique_common>
+					</bind_material>
+				</instance_geometry>
+			</node>
+			<node id="NODE_xZHf7OOE" name="Primitive" type="NODE">
+				<matrix>0.994524 -0.104507 0.000000 -30.924217 0.104507 0.994524 0.000000 -9.419594 0.000000 0.000000 1.000000 1.370552 0.000000 0.000000 0.000000 1.000000</matrix>
+				<scale sid="scale">0.141000 1.200000 0.470000</scale>
+				<instance_geometry url="#GEOMETRY_lnicO5gb">
+					<bind_material>
+						<technique_common>
+							<instance_material symbol="MATERIAL_qTADYr_lMn+AAAAAAAAAAAAAAAAAABkAGQAAABP" target="#MATERIAL_qTADYr_lMn+AAAAAAAAAAAAAAAAAABkAGQAAABP" />
+							<instance_material symbol="MATERIAL_S1JyNe_lMn+AAAAAP8AAAAAAAAAAABkAGQAAABP" target="#MATERIAL_S1JyNe_lMn+AAAAAP8AAAAAAAAAAABkAGQAAABP" />
+						</technique_common>
+					</bind_material>
+				</instance_geometry>
+			</node>
+			<node id="NODE_gVSLEQD2" name="Bookshelf" type="NODE">
+				<matrix>0.994524 -0.104507 0.000000 -30.924217 0.104507 0.994524 0.000000 -9.419594 0.000000 0.000000 1.000000 2.372618 0.000000 0.000000 0.000000 1.000000</matrix>
+				<scale sid="scale">0.141000 1.200000 0.470000</scale>
+				<instance_geometry url="#GEOMETRY_u0Z0aFZX">
+					<bind_material>
+						<technique_common>
+							<instance_material symbol="MATERIAL_PnqmVJ_lMn+AAAAAAAAAAAAAAAAAABkAGQAAABP" target="#MATERIAL_PnqmVJ_lMn+AAAAAAAAAAAAAAAAAABkAGQAAABP" />
+							<instance_material symbol="MATERIAL_IlSIJ0_lMn+AAAAAP8AAAAAAAAAAABkAGQAAABP" target="#MATERIAL_IlSIJ0_lMn+AAAAAP8AAAAAAAAAAABkAGQAAABP" />
+						</technique_common>
+					</bind_material>
+				</instance_geometry>
+			</node>
+			<node id="NODE_I4KINJoO" name="Primitive" type="NODE">
+				<matrix>0.994524 -0.104507 0.000000 -30.925247 0.104507 0.994524 0.000000 -9.409790 0.000000 0.000000 1.000000 1.863714 0.000000 0.000000 0.000000 1.000000</matrix>
+				<scale sid="scale">0.141000 1.200000 0.470000</scale>
+				<instance_geometry url="#GEOMETRY_jnfGAQhK">
+					<bind_material>
+						<technique_common>
+							<instance_material symbol="MATERIAL_fA8uZn_lMn+AAAAAAAAAAAAAAAAAABkAGQAAABP" target="#MATERIAL_fA8uZn_lMn+AAAAAAAAAAAAAAAAAABkAGQAAABP" />
+							<instance_material symbol="MATERIAL_UlXMM8_lMn+AAAAAP8AAAAAAAAAAABkAGQAAABP" target="#MATERIAL_UlXMM8_lMn+AAAAAP8AAAAAAAAAAABkAGQAAABP" />
+						</technique_common>
+					</bind_material>
+				</instance_geometry>
+			</node>
+		</visual_scene>
+	</library_visual_scenes>
+	<scene>
+		<instance_physics_scene url="#Physics_Scene" />
+		<instance_visual_scene url="#Scene" />
+	</scene>
+</COLLADA>
